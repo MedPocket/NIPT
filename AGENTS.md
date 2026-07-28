@@ -53,7 +53,7 @@ Use **Bun** to install dependencies and run all project-related scripts:
   ```bash
   bun run build
   ```
-  *Caution*: Running `bun run build` while the local development server is active can result in build/runtime conflicts. Ensure the dev server is stopped, or run the build with the `--isolated` flag if necessary.
+  _Caution_: Running `bun run build` while the local development server is active can result in build/runtime conflicts. Ensure the dev server is stopped, or run the build with the `--isolated` flag if necessary.
 - **Run Typechecking**:
   ```bash
   bun run typecheck

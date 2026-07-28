@@ -37,4 +37,4 @@ Dự án này được cấp phép theo các điều khoản của [MIT License]
 
 ---
 
-*Lưu ý:* Dự án này có tích hợp hoặc kế thừa các nội dung/tài liệu được điều chỉnh từ [MedPocket/healthy-pregnancy](https://github.com/MedPocket/healthy-pregnancy).
+_Lưu ý:_ Dự án này có tích hợp hoặc kế thừa các nội dung/tài liệu được điều chỉnh từ [MedPocket/healthy-pregnancy](https://github.com/MedPocket/healthy-pregnancy).
