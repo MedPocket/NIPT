@@ -1,14 +1,14 @@
 import { defineConfig } from "blume";
 
 export default defineConfig({
-  title: "Ultraso",
-  description: "Tài liệu về siêu âm lâm sàng.",
+  title: "NIPT",
+  description: "Cẩm nang sàng lọc xét nghiệm NIPT.",
 
   feedback: false,
 
   github: {
     owner: "MedPocket",
-    repo: "ultraso",
+    repo: "NIPT",
     branch: "main",
   },
 
@@ -28,18 +28,10 @@ export default defineConfig({
     accent: "blue",
     radius: "md",
     mode: "system",
-    fonts: {
-      body: "geist",
-      display: "geist",
-    },
   },
 
   deployment: {
     output: "static",
-    site:
-      process.env.NETLIFY === "true"
-        ? process.env.URL || "https://ultraso.netlify.app"
-        : "https://medpocket.github.io",
-    base: process.env.NETLIFY === "true" ? "/" : "/ultraso",
+    base: "/NIPT",
   },
 });
