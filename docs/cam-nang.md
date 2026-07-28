@@ -91,17 +91,18 @@ Con số này sẽ giảm đi nhiều nếu các thai phụ được tầm soát
 sơ sinh bằng những xét nghiệm cơ bản.
 NHỮNG CON SỐ BIẾT NÓI
 Khoảng
-| 1 .5 | 1 .700 | 13  |
-| ---- | ------ | --- |
-triệu 41.000
-| Hơn                | Khoảng      | Mỗi phút sẽ có        |
-| ------------------ | ----------- | --------------------- |
-| bé sinh ra mỗi năm | trẻ tử vong | 1 trẻ chào đời bị mắc |
-do dị tật bẩm sinh trẻ sơ sinh
-hội chứng về di truyền mang dị tật bẩm sinh
-(*) Thống kê dân số năm 2017 - vietnamplus.vn
-| CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure |     | 03  |
-| -------------------------------------------------- | --- | --- |
+
+| 1 .5                                               | 1 .700      | 13                    |
+| -------------------------------------------------- | ----------- | --------------------- |
+| triệu 41.000                                       |
+| Hơn                                                | Khoảng      | Mỗi phút sẽ có        |
+| ------------------                                 | ----------- | --------------------- |
+| bé sinh ra mỗi năm                                 | trẻ tử vong | 1 trẻ chào đời bị mắc |
+| do dị tật bẩm sinh trẻ sơ sinh                     |
+| hội chứng về di truyền mang dị tật bẩm sinh        |
+| (*) Thống kê dân số năm 2017 - vietnamplus.vn      |
+| CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure |             | 03                    |
+| -------------------------------------------------- | ---         | ---                   |
 
 CÁC QUY TRÌNH TẦM SOÁT
 THAI PHỤ
@@ -147,17 +148,19 @@ thai phụ
 Combined test
 nguy
 2.149 ca
+
 > 1/250 cơ cao triSure 10-20 ca có
-dương tính
+> dương tính
+
 - NIPT nguy cơ sảy thai
-(4,2%)
-49.184 ca âm tính
-(95,8%)
-Không cần thực hiện
-chẩn đoán xâm lấn
-25 lần
-NIPT giảm số ca chọc ối “oan”
-CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure 05
+  (4,2%)
+  49.184 ca âm tính
+  (95,8%)
+  Không cần thực hiện
+  chẩn đoán xâm lấn
+  25 lần
+  NIPT giảm số ca chọc ối “oan”
+  CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure 05
 
 NIPT LÀ GÌ ?
 NIPT (Non-Invasive Prenatal Testing) là xét nghiệm sàng lọc trước sinh không xâm
@@ -213,7 +216,7 @@ CHÍNH XÁC
 Sử dụng công nghệ và kỹ thuật hiện đại từ Illumina - Hoa Kỳ.
 Được phát triển dựa trên thông tin di truyền của thai phụ
 Việt Nam.
-Độ nhạy và độ đặc hiệu: >99% (*).
+Độ nhạy và độ đặc hiệu: >99% (_).
 TIN TƯỞNG
 Hơn 2.700.000 thai phụ tin tưởng thực hiện xét nghiệm.
 Có mặt tại hơn 5.000 Bệnh viện và phòng khám Sản trên cả nước.
@@ -221,8 +224,8 @@ CAM KẾT
 Đồng hành cùng bác sĩ và thai phụ suốt thai kỳ với các
 giải pháp về di truyền.
 NHANH CHÓNG
-Có kết quả sau 05 ngày làm việc (**).
-(*) Cho khảo sát tam nhiễm sắc thể 13, 18, 21
+Có kết quả sau 05 ngày làm việc (\**).
+(_) Cho khảo sát tam nhiễm sắc thể 13, 18, 21
 (**) Kể từ ngày nhận mẫu tại GENE SOLUTIONS
 08 www.genesolutions.vn
 
@@ -356,26 +359,27 @@ mạch - Cardiofaciocutaneous, Hội chứng Alagille, Hội chứng Charge, H�
 động kinh ở trẻ em, Thiểu năng trí tuệ, Bệnh bạch cầu cấp nguyên bào tủy vị thành niên, Hội chứng Rett, Hội chứng Sotos,
 Bệnh xơ cứng củ).
 Kỹ thuật giải trình tự gen thế hệ mới NGS kết hợp GAP-PCR khảo sát mẹ mang gen 18 bệnh di truyền lặn phổ biến:
+
 - 16 bệnh di truyền lặn: Khảo sát đột biến gây bệnh trên 16 gen SMPD1, CFTR, IGHMBP2, SLC26A4, PKHD1, F8, OTC, ABCD1,
-SLC22A5, G6PD, PAH, GALT, SLC25A13, SRD5A2, GAA, ATP7B, tương ứng với 16 bệnh di truyền lặn (Niemann-Pick type A
-và B, Xơ nang, Bệnh teo cơ tủy dạng suy hô hấp type 1 (Charcot Marie Tooth type 2S), hội chứng Pendred (điếc di truyền),
-Bệnh thận đa nang (Bệnh Caroli), Máu khó đông Hemophilia A, Thiếu ornithine transcarbamylase, Loạn dưỡng chất trắng não
+  SLC22A5, G6PD, PAH, GALT, SLC25A13, SRD5A2, GAA, ATP7B, tương ứng với 16 bệnh di truyền lặn (Niemann-Pick type A
+  và B, Xơ nang, Bệnh teo cơ tủy dạng suy hô hấp type 1 (Charcot Marie Tooth type 2S), hội chứng Pendred (điếc di truyền),
+  Bệnh thận đa nang (Bệnh Caroli), Máu khó đông Hemophilia A, Thiếu ornithine transcarbamylase, Loạn dưỡng chất trắng não
 - thượng thận, Thiếu men carnitine nguyên phát, Thiếu men G6PD, Phenylketon niệu, Rối loạn chuyển hóa galactose, Vàng
-da ứ mật do thiếu men citrin, Rối loạn phát triển giới tính ở nam do thiếu men 5-alpha reductase, Pompe, Wilson).
+  da ứ mật do thiếu men citrin, Rối loạn phát triển giới tính ở nam do thiếu men 5-alpha reductase, Pompe, Wilson).
 - Bệnh Alpha Thalassemia (gen HBA1, HBA2): Khảo sát các mất đoạn phổ biến nhất gây bệnh là mất đoạn Southeast Asian
-(--SEA), mất đoạn 3.7kb (-α3.7), mất đoạn 4.2kb (-α4.2), THAI và 183 đột biến điểm gây bệnh bao gồm đột biến CS, QS.
+  (--SEA), mất đoạn 3.7kb (-α3.7), mất đoạn 4.2kb (-α4.2), THAI và 183 đột biến điểm gây bệnh bao gồm đột biến CS, QS.
 - Bệnh Beta Thalassemia (gen HBB): khảo sát 318 đột biến điểm gây bệnh bao gồm 16 đột biến phổ biến nhất 28(A-G),
--29(A-G), Cap(-AAAC), Int(T-G), CD14/15(+G), CD17(A-T), CD27/28(+C), βE(G-A), CD31(-C), CD41/42 (-TTCT), CD3(G-T),
-CD71/72(+A), IVS-I-1(G-T), IVS-I-1(G-A), IVS-I-5(G-C), IVS-II-654(C-T).
-Khảo sát mẹ mang gen bệnh Fragile X/Teo cơ tủy sống SMA (tùy chọn, có thu phí) như sau:
+  -29(A-G), Cap(-AAAC), Int(T-G), CD14/15(+G), CD17(A-T), CD27/28(+C), βE(G-A), CD31(-C), CD41/42 (-TTCT), CD3(G-T),
+  CD71/72(+A), IVS-I-1(G-T), IVS-I-1(G-A), IVS-I-5(G-C), IVS-II-654(C-T).
+  Khảo sát mẹ mang gen bệnh Fragile X/Teo cơ tủy sống SMA (tùy chọn, có thu phí) như sau:
 - Hội chứng Fragile X: Khảo sát số lượng lặp bộ ba CGG trên gen FMR1 bằng kỹ thuật phân tích vi vệ tinh bằng điện di mao
-quản trên hệ thống Seqstudio (Thermo, Hoa Kỳ).
+  quản trên hệ thống Seqstudio (Thermo, Hoa Kỳ).
 - Bệnh Teo cơ tủy sống SMA: Khảo sát mất đoạn exon 7-8 trên gen SMN1 bằng kỹ thuật MLPA (Multiplex Ligation-dependent
-Probe Amplification) trên hệ thống Seqstudio (Thermo, Hoa Kỳ)).
-Kỹ thuật giải trình tự gen thế hệ mới NGS khảo sát tất cả các đột biến điểm, mất đoạn và lặp đoạn nhỏ (kích thước không quá
-10bp) trên vùng mã hóa protein, cũng như các vùng giao nhau giữa intron và exon (splicing site) của gen. Đột biến được phân
-lớp dựa trên cơ sở dữ liệu Clinvar (Viện Sức khỏe Quốc gia Hoa Kỳ) và chỉ những đột biến điểm gây bệnh mới được thông báo.
-CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure 13
+  Probe Amplification) trên hệ thống Seqstudio (Thermo, Hoa Kỳ)).
+  Kỹ thuật giải trình tự gen thế hệ mới NGS khảo sát tất cả các đột biến điểm, mất đoạn và lặp đoạn nhỏ (kích thước không quá
+  10bp) trên vùng mã hóa protein, cũng như các vùng giao nhau giữa intron và exon (splicing site) của gen. Đột biến được phân
+  lớp dựa trên cơ sở dữ liệu Clinvar (Viện Sức khỏe Quốc gia Hoa Kỳ) và chỉ những đột biến điểm gây bệnh mới được thông báo.
+  CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure 13
 
 CÁC BỆNH PHỔ BIẾN MÀ TRISURE TẦM SOÁT
 1 14
@@ -427,47 +431,48 @@ Bệnh xơ cứng củ
 14 www.genesolutions.vn
 
 CÁC BỆNH PHỔ BIẾN MÀ TRISURE TẦM SOÁT
-|                     |     | 1 10 |               |     |
-| ------------------- | --- | ---- | ------------- | --- |
-| Bệnh thiếu men G6PD |     |      | Niemann-Pick  |     |
-type A và B
-|     | 2   |     | 11  |     |
-| --- | --- | --- | --- | --- |
-Bệnh teo cơ tủy dạng suy hô hấp type 1
-Bệnh Phenylketon niệu
-(Charcot Marie Tooth type 2S)
-| Rối loạn chuyển hóa đường  | 3   |     | 12  |     |
-| -------------------------- | --- | --- | --- | --- |
-Xơ nang
-galactose (Galactosemia)
-|                       | 4   |     | 13  |                    |
-| --------------------- | --- | --- | --- | ------------------ |
-| Tan máu bẩm sinh      |     |     |     | Hội chứng Pendred  |
-| Thalassemia thể Alpha |     |     |     | (điếc di truyền)   |
-BỆNH
-|                      | 5   |                |     | 14                 |
-| -------------------- | --- | -------------- | --- | ------------------ |
-| Tan máu bẩm sinh     |     | DI TRUYỀN LẶN  |     | Bệnh thận đa nang  |
-| Thalassemia thể Beta |     |                |     | (Bệnh Caroli)      |
-ĐƠN GEN
-|                                      | 6            | CHO MẸ | 15                      |                  |
-| ------------------------------------ | ------------ | ------ | ----------------------- | ---------------- |
-| Vàng da ứ mật do                     |              |        |                         | Máu khó đông     |
-| thiếu men citrin                     |              |        |                         | Hemophilia A     |
-|                                      | 7            |        | 16                      |                  |
-| Rối loạn phát triển giới tính ở nam  |              |        |                         | Thiếu ornithine  |
-| do thiếu men 5-alpha reductase       |              |        | transcarbamylase        |                  |
-|                                      | 8            |        | 17                      |                  |
-| Bệnh Pompe                           |              |        | Loạn dưỡng chất         |                  |
-| (rối loạn dự trữ glycogen loại 2)    |              |        | trắng não - thượng thận |                  |
-|                                      |              | 9 18   |                         |                  |
-|                                      | Bệnh Wilson  |        | Thiếu men carnitine     |                  |
-| (rối loạn chuyển hóa đồng)           |              |        | nguyên phát             |                  |
-|                                      |              | 20 19  |                         |                  |
-| Bệnh teo cơ tủy SMA                  |              |        | Hội chứng NST X dễ gãy  |                  |
- (Fragile X)
-| CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure |     | 15  |     |     |
-| -------------------------------------------------- | --- | --- | --- | --- |
+
+|                                                    |              | 1 10           |                         |                    |
+| -------------------------------------------------- | ------------ | -------------- | ----------------------- | ------------------ |
+| Bệnh thiếu men G6PD                                |              |                | Niemann-Pick            |                    |
+| type A và B                                        |
+|                                                    | 2            |                | 11                      |                    |
+| ---                                                | ---          | ---            | ---                     | ---                |
+| Bệnh teo cơ tủy dạng suy hô hấp type 1             |
+| Bệnh Phenylketon niệu                              |
+| (Charcot Marie Tooth type 2S)                      |
+| Rối loạn chuyển hóa đường                          | 3            |                | 12                      |                    |
+| --------------------------                         | ---          | ---            | ---                     | ---                |
+| Xơ nang                                            |
+| galactose (Galactosemia)                           |
+|                                                    | 4            |                | 13                      |                    |
+| ---------------------                              | ---          | ---            | ---                     | ------------------ |
+| Tan máu bẩm sinh                                   |              |                |                         | Hội chứng Pendred  |
+| Thalassemia thể Alpha                              |              |                |                         | (điếc di truyền)   |
+| BỆNH                                               |
+|                                                    | 5            |                |                         | 14                 |
+| --------------------                               | ---          | -------------- | ---                     | ------------------ |
+| Tan máu bẩm sinh                                   |              | DI TRUYỀN LẶN  |                         | Bệnh thận đa nang  |
+| Thalassemia thể Beta                               |              |                |                         | (Bệnh Caroli)      |
+| ĐƠN GEN                                            |
+|                                                    | 6            | CHO MẸ         | 15                      |                    |
+| ------------------------------------               | ------------ | ------         | ----------------------- | ----------------   |
+| Vàng da ứ mật do                                   |              |                |                         | Máu khó đông       |
+| thiếu men citrin                                   |              |                |                         | Hemophilia A       |
+|                                                    | 7            |                | 16                      |                    |
+| Rối loạn phát triển giới tính ở nam                |              |                |                         | Thiếu ornithine    |
+| do thiếu men 5-alpha reductase                     |              |                | transcarbamylase        |                    |
+|                                                    | 8            |                | 17                      |                    |
+| Bệnh Pompe                                         |              |                | Loạn dưỡng chất         |                    |
+| (rối loạn dự trữ glycogen loại 2)                  |              |                | trắng não - thượng thận |                    |
+|                                                    |              | 9 18           |                         |                    |
+|                                                    | Bệnh Wilson  |                | Thiếu men carnitine     |                    |
+| (rối loạn chuyển hóa đồng)                         |              |                | nguyên phát             |                    |
+|                                                    |              | 20 19          |                         |                    |
+| Bệnh teo cơ tủy SMA                                |              |                | Hội chứng NST X dễ gãy  |                    |
+| (Fragile X)                                        |
+| CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure |              | 15             |                         |                    |
+| -------------------------------------------------- | ---          | ---            | ---                     | ---                |
 
 CÁC HỘI CHỨNG LIÊN QUAN
 ĐẾN BẤT THƯỜNG NHIỄM SẮC THỂ CHO THAI
@@ -752,8 +757,7 @@ McDonald-McGinn DM, Hain HS, Emanuel BS, et al. 22q11.2 Deletion Syndrome. 1999 
 Feb 27]. In: Adam MP, Feldman J, Mirzaa GM, et al., editors. GeneReviews® [Internet]. Seattle (WA): University
 of Washington, Seattle; 1993-2023. Available from: https://www.ncbi.nlm.nih. gov/books/NBK1523/
 Tăng Hùng Sang, Đào Thị Hồng Thuý, Phan Ngọc Minh và cộng sự (2023). Chẩn Đoán Trước Sinh Các Bất
-Thường Nhiễm Sắc Thể Bằng Kỹ Thuật Cnvseq Cho Đoàn Hệ 5.008 Thai Kỳ Việt Nam Trong Giai Đoạn 2018 –
-2021. Tạp chí y học dự phòng, 33, 83-91. DOI: https://doi.org/10.51403/0868-2836/2023/1230
+Thường Nhiễm Sắc Thể Bằng Kỹ Thuật Cnvseq Cho Đoàn Hệ 5.008 Thai Kỳ Việt Nam Trong Giai Đoạn 2018 – 2021. Tạp chí y học dự phòng, 33, 83-91. DOI: https://doi.org/10.51403/0868-2836/2023/1230
 26 www.genesolutions.vn
 
 MẤT ĐOẠN 1p36
@@ -838,148 +842,149 @@ Tạp chí Y học Việt Nam 535.1B (2024)
 
 BỆNH DI TRUYỀN TRỘI ĐƠN GEN CHO THAI (Bệnh đơn gen trội)
 CÁC BỆNH ĐƯỢC LỰA CHỌN THỎA CÁC TIÊU CHÍ SAU
-Bệnh phổ biến nhất  Bệnh nghiêm trọng Gen khảo sát có độ  Có tính hữu dụng
+Bệnh phổ biến nhất Bệnh nghiêm trọng Gen khảo sát có độ Có tính hữu dụng
 thấm cao (>96%) lâm sàng
-(có tần suất cộng gộp phổ biến hơn hội  (suy giảm nhận thức, cần chăm sóc tích
-chứng Down - không được tầm soát bởi  cực, ảnh hưởng đến chất lượng cuộc sống)
-NIPT truyền thống và sàng lọc gen bệnh  (thai mang đột biến gây bệnh thì khả  (tầm soát sớm để chủ động quản
+(có tần suất cộng gộp phổ biến hơn hội (suy giảm nhận thức, cần chăm sóc tích
+chứng Down - không được tầm soát bởi cực, ảnh hưởng đến chất lượng cuộc sống)
+NIPT truyền thống và sàng lọc gen bệnh (thai mang đột biến gây bệnh thì khả (tầm soát sớm để chủ động quản
 thể ẩn) năng mắc bệnh sẽ cao) lý tiền sinh, chuyển dạ và sau sinh)
-| BỆNH/ |     | QUẢN LÝ |
-| ----- | --- | ------- |
-GEN BIỂU HIỆN
-| HỘI CHỨNG |                                         | ĐIỀU TRỊ LÂM SÀNG                 |
-| --------- | --------------------------------------- | --------------------------------- |
-|           | Dạng phổ biến nhất của loạn sản xương;  | Quản lý chuyển dạ sinh con, theo  |
- Loạn sản xương -  có thể gây ra não úng thủy, chậm phát  dõi hẹp ống sống, theo dõi giấc
-Achondroplasia FGFR3
-|                  | triển vận động, và hẹp ống sống         | ngủ để phòng ngừa SIDS |
-| ---------------- | --------------------------------------- | ---------------------- |
-| Loạn sản xương-  | Một dạng lùn tương đối nhẹ; có thể gây  |                        |
-Hypochondroplasia FGFR3  co giật với chậm phát triển thứ phát Theo dõi và điều trị cơn động kinh
-Loạn sản xương gây tử  Một chứng rối loạn xương nghiêm trọng
-vong - Thanatophoric  FGFR3  thường dẫn đến thai chết lưu hoặc tử  Quản lý chuyển dạ sinh con
-| dysplasia | vong ở trẻ sơ sinh do suy hô hấp       |                                 |
-| --------- | -------------------------------------- | ------------------------------- |
-|           | Một dạng của dị tật dính sớm khớp sọ;  | MRI thai nhi, phẫu thuật chỉnh  |
-Hội chứng
-Muenke  FGFR3  có thể gây mất thính giác, chậm phát  hình, áp dụng sớm điều trị ngôn
-|     | triển và sứt môi và/hoặc chẻ vòm. | ngữ ký hiệu và hành vi |
-| --- | --------------------------------- | ---------------------- |
-MRI thai, tránh sinh bằng dụng cụ,
-|     | Một dạng của dị tật dính khớp sọ sớm,  | phẫu thuật chỉnh hình, theo dõi  |
-| --- | -------------------------------------- | -------------------------------- |
-Hội chứng Crouzon  FGFR2, FGFR3  cũng gây ra mất thính lực và vấn đề về
-|     | răng ở một số trường hợp | não úng thủy, áp dụng sớm điều  |
-| --- | ------------------------ | ------------------------------- |
-trị ngôn ngữ ký hiệu
-Là viết tắt của Camptodactyly (co rút
-Bệnh xương thủy tinh,  gặp ngón tay), Tall stature (thân hình
-loại I, II, III, IV -  cao), soliosiss (vẹo cột sống) và hearing  Áp dụng sớm điều trị ngôn ngữ và
-COL1A1, COL1A2 điều trị hành vi
-Osteogenesis imperfecta loss (mất thính giác), có thể làm tăng
-nguy cơ thiểu năng trí tuệ
-Hội chứng Q u ả n  lý  c h u y ể n  d ạ  s in h   c on ,  c hăm
-FGFR3 Khiến xương dễ gãy, thường không xác  só c   sơ  s in h ,  n h ậ n  b iế t  s ớ m  v à
-| CATSHL  | định được nguyên nhân | điều trị gãy xương |
-| ------- | --------------------- | ------------------ |
-Hội chứng  Dị tật ở các mô liên kết, từ lỏng các khớp  Điều trị chỉnh hình, theo dõi các
-đến các tình trạng gây nguy hiểm đến
-Ehlers-Danlos COL1A1, COL1A2  tính mạng như bóc tách động mạch chủ biến chứng hệ tim mạch
-Một loại bệnh của dị tật dính khớp sọ
-Chụp MRI thai nhi, tránh sinh
-|     | sớm (craniosynostosis); gây ra tình  | bằng dụng cụ, phẫu thuật chỉnh  |
-| --- | ------------------------------------ | ------------------------------- |
-Hội chứng Antley Bixler FGFR2  trạng dính các xương ở tay, tắc nghẽn
-|     | mũi và tình trạng mở rộng các khớp         | hình, theo dõi não úng thủy    |
-| --- | ------------------------------------------ | ------------------------------ |
-|     | Một loại bệnh của dị tật dính khớp sọ sớm  | Chụp MRI thai nhi, tránh sinh  |
-(craniosynostosis); cũng gây ra các bất
-Hội chứng Apert FGFR2  thường ở ngón tay, ngón chân, đốt sống,  bằng dụng cụ, phẫu thuật chỉnh
-|                                                    | và các cơ quan khác | hình, theo dõi não úng thủy |
-| -------------------------------------------------- | ------------------- | --------------------------- |
-| CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure | 31                  |                             |
 
-| BỆNH/     |     |                                        |     | QUẢN LÝ                            |
-| --------- | --- | -------------------------------------- | --- | ---------------------------------- |
-|           | GEN | BIỂU HIỆN                              |     |                                    |
-| HỘI CHỨNG |     |                                        |     | ĐIỀU TRỊ LÂM SÀNG                  |
-|           |     | Một dạng của dị tật dính sớm khớp sọ;  |     | Chụp MRI cho thai nhi, tránh sinh  |
-Hội chứng Pfeiffer FGFR2  cũng gây mất thính giác, thiểu năng trí  bằng dụng cụ, phẫu thuật chỉnh sửa,
-|     |     | tuệ, bất thường ở tay và có thể dẫn đến  |     | theo dõi não úng thủy, áp dụng sớm   |
-| --- | --- | ---------------------------------------- | --- | ------------------------------------ |
-|     |     | tử vong sớm                              |     | điều trị ngôn ngữ ký hiệu và hành vi |
-H ộ i  c h ứ n g M ộ t  d ạ n g  c ủ a  d ị  t ậ t  d ín h   k h ớ p  s ọ sớm;  C h ụ p   M R I  t h a i  n h i,  t r á n h  s i n h  b ằ ng
-Ja ck s o n   W e iss  FGFR2  dụ n g   c ụ ,  p h ẫ u   th u ậ t   c h ỉn h   h ìn h ,
-|     |     | có  t h ể  g â y  r | a  b ấ t   th ư ờ n g   ở  c h â n | theo dõi cho não úng thủy |
-| --- | --- | ------------------- | ---------------------------------- | ------------------------- |
-PTPN11, SOS1, RAF1,
-RIT1, KRAS, NRAS,  Gây ra tầm vóc thấp, dị tật tim, các vấn  Siêu âm tim thai, quản lý chuyển
-Hội chứng Noonan  đề về đông máu và trong một số  dạ sinh con, đánh giá sớm quá
-|     | SOS2, SHOC2, BRAF,  | trường hợp gây thiểu năng trí tuệ nhẹ |     | trình phát triển |
-| --- | ------------------- | ------------------------------------- | --- | ---------------- |
-MAP2K1, HRAS, CBL
-Tương tự như hội chứng Noonan, với
-các nốt da tăng sắc tố; gây ra tầm vóc
-Hội chứng LEOPARD PTPN11, RAF1  thấp, dị tật tim, các vấn đề về đông  Siêu âm tim thai
-máu, và trong một số trường hợp, thiểu
-năng trí tuệ mức độ nhẹ
-| Hội chứng | BRAF, MAP2K1,  | Gây ra các bất thường ở tim, mặt, da  |     |     |
-| --------- | -------------- | ------------------------------------- | --- | --- |
-Cardiofaciocutaneous và tóc; có thể chậm phát triển và thiểu  Siêu âm tim thai
-| (Tim mạch - mặt - da) | MAP2K2  | năng trí tuệ |     |     |
-| --------------------- | ------- | ------------ | --- | --- |
-Ảnh hưởng nhiều cơ quan và có thể
-gây ra các vấn đề về tăng trưởng, dị
-| Hội chứng Alagille | JAG1  |     |     | Điều trị dựa theo triệu chứng |
-| ------------------ | ----- | --- | --- | ----------------------------- |
-tật tim bẩm sinh và các bất thường về
-đốt sống
-Viết tắt của Coloboma (hội chứng mắt
-mèo), heart defects (dị tật tim), atresia of
-the choanae (tắc khoang mũi sau),
-|     |     | retardation of growth and development  |     | Khám nội tiết sớm |
-| --- | --- | -------------------------------------- | --- | ----------------- |
-Hội chứng CHARGE CHD7 (chậm phát triển tăng trưởng), genital  Áp dụng sớm điều trị ngôn ngữ ký
-|     |     | abnormality (bất thường cơ quan sinh  |     | hiệu và hành vi |
-| --- | --- | ------------------------------------- | --- | --------------- |
-dục), ear abnormalities (bất thường tai);
-nguy cơ mất thính lực, chậm phát triển và
-sứt môi và/hoặc chẻ vòm
-Hội chứng NIPBL, SMC1A,  Gây ra các bất thường về hình thái,  Theo dõi các bất thường tim mạch,
-|                    | SMC3, RAD21,  | nhận thức và là thách thức với ngành y   |     |                 |
-| ------------------ | ------------- | ---------------------------------------- | --- | --------------- |
-| Cornelia de Lange  | HDAC8         | học                                      |     | tiêu hóa và chi |
-Dị tật tim, thiểu năng trí tuệ, chậm
-Nuôi ăn qua sonde, điều trị hỗ trợ và
-Hội chứng Costello  HRAS  phát triển tăng trưởng, và nguy cơ  điều trị hành vi
-phát triển các khối u ác tính
-| Bệnh động kinh | CDKL5  |     |     |     |
-| -------------- | ------ | --- | --- | --- |
-ở trẻ em  Động kinh và chậm phát triển thứ phát Theo dõi điều trị cơn động kinh
-Thiểu năng trí tuệ  SYNGAP1  Thiểu năng trí tuệ và chậm phát triển Áp dụng sớm các can thiệp hỗ trợ
-và điều trị hành vi sớm
-Bệnh bạch cầu cấp
-| nguyên bào tủy vị  |     | Một bệnh ung thư máu ở trẻ em hiếm  |     |     |
-| ------------------ | --- | ----------------------------------- | --- | --- |
-Theo dõi xét nghiệm máu và điều
-thành niên (Juvenile  PTPN11, CBL gặp; tỷ lệ sống sót sau năm năm là  trị chuyên khoa
-| myelomonocytic  |     | khoảng 50% |     |     |
-| --------------- | --- | ---------- | --- | --- |
-leukemia)
-Gây ra sự thụt lùi nhanh chóng về ngôn
-Đánh giá nguy cơ tim mạch, theo
-Hội chứng Rett  MECP2  ngữ và kỹ năng vận động khi trẻ 6-18  dõi và điều trị co giật, hỗ trợ điều
-tháng tuổi; tự kỷ, động kinh và hội
-|                 |       | chứng QT dài thường xuất hiện         |     | trị hành vi                          |
-| --------------- | ----- | ------------------------------------- | --- | ------------------------------------ |
-|                 |       | Hội chứng phát triển quá mức; có thể  |     | Siêu âm tim thai, siêu âm thận thai  |
-| Hội chứng Sotos | NSD1  | gây chậm phát triển tâm thần và các   |     |                                      |
-|                 |       | vấn đề về hành vi                     |     | và can thiệp điều trị hành vi sớm    |
-Khối u lành tính phát triển ở nhiều hệ cơ
-Bệnh xơ cứng củ -  quan trong cơ thể có thể nguy hiểm đến  Siêu âm tim thai nhi, MRI sau sinh,
-Tuberous sclerosis TSC1, TSC2  tính mạng; cũng có thể gây động kinh và  điều trị hỗ trợ hành vi
-chậm phát triển thứ phát
-32 www.genesolutions.vn
+| BỆNH/                                                                                            |                                            | QUẢN LÝ                           |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------ | --------------------------------- |
+| GEN BIỂU HIỆN                                                                                    |
+| HỘI CHỨNG                                                                                        |                                            | ĐIỀU TRỊ LÂM SÀNG                 |
+| ---------                                                                                        | ---------------------------------------    | --------------------------------- |
+|                                                                                                  | Dạng phổ biến nhất của loạn sản xương;     | Quản lý chuyển dạ sinh con, theo  |
+| Loạn sản xương - có thể gây ra não úng thủy, chậm phát dõi hẹp ống sống, theo dõi giấc           |
+| Achondroplasia FGFR3                                                                             |
+|                                                                                                  | triển vận động, và hẹp ống sống            | ngủ để phòng ngừa SIDS            |
+| ----------------                                                                                 | ---------------------------------------    | ----------------------            |
+| Loạn sản xương-                                                                                  | Một dạng lùn tương đối nhẹ; có thể gây     |                                   |
+| Hypochondroplasia FGFR3 co giật với chậm phát triển thứ phát Theo dõi và điều trị cơn động kinh  |
+| Loạn sản xương gây tử Một chứng rối loạn xương nghiêm trọng                                      |
+| vong - Thanatophoric FGFR3 thường dẫn đến thai chết lưu hoặc tử Quản lý chuyển dạ sinh con       |
+| dysplasia                                                                                        | vong ở trẻ sơ sinh do suy hô hấp           |                                   |
+| ---------                                                                                        | --------------------------------------     | -------------------------------   |
+|                                                                                                  | Một dạng của dị tật dính sớm khớp sọ;      | MRI thai nhi, phẫu thuật chỉnh    |
+| Hội chứng                                                                                        |
+| Muenke FGFR3 có thể gây mất thính giác, chậm phát hình, áp dụng sớm điều trị ngôn                |
+|                                                                                                  | triển và sứt môi và/hoặc chẻ vòm.          | ngữ ký hiệu và hành vi            |
+| ---                                                                                              | ---------------------------------          | ----------------------            |
+| MRI thai, tránh sinh bằng dụng cụ,                                                               |
+|                                                                                                  | Một dạng của dị tật dính khớp sọ sớm,      | phẫu thuật chỉnh hình, theo dõi   |
+| ---                                                                                              | --------------------------------------     | --------------------------------  |
+| Hội chứng Crouzon FGFR2, FGFR3 cũng gây ra mất thính lực và vấn đề về                            |
+|                                                                                                  | răng ở một số trường hợp                   | não úng thủy, áp dụng sớm điều    |
+| ---                                                                                              | ------------------------                   | -------------------------------   |
+| trị ngôn ngữ ký hiệu                                                                             |
+| Là viết tắt của Camptodactyly (co rút                                                            |
+| Bệnh xương thủy tinh, gặp ngón tay), Tall stature (thân hình                                     |
+| loại I, II, III, IV - cao), soliosiss (vẹo cột sống) và hearing Áp dụng sớm điều trị ngôn ngữ và |
+| COL1A1, COL1A2 điều trị hành vi                                                                  |
+| Osteogenesis imperfecta loss (mất thính giác), có thể làm tăng                                   |
+| nguy cơ thiểu năng trí tuệ                                                                       |
+| Hội chứng Q u ả n lý c h u y ể n d ạ s in h c on , c hăm                                         |
+| FGFR3 Khiến xương dễ gãy, thường không xác só c sơ s in h , n h ậ n b iế t s ớ m v à             |
+| CATSHL                                                                                           | định được nguyên nhân                      | điều trị gãy xương                |
+| -------                                                                                          | ---------------------                      | ------------------                |
+| Hội chứng Dị tật ở các mô liên kết, từ lỏng các khớp Điều trị chỉnh hình, theo dõi các           |
+| đến các tình trạng gây nguy hiểm đến                                                             |
+| Ehlers-Danlos COL1A1, COL1A2 tính mạng như bóc tách động mạch chủ biến chứng hệ tim mạch         |
+| Một loại bệnh của dị tật dính khớp sọ                                                            |
+| Chụp MRI thai nhi, tránh sinh                                                                    |
+|                                                                                                  | sớm (craniosynostosis); gây ra tình        | bằng dụng cụ, phẫu thuật chỉnh    |
+| ---                                                                                              | ------------------------------------       | -------------------------------   |
+| Hội chứng Antley Bixler FGFR2 trạng dính các xương ở tay, tắc nghẽn                              |
+|                                                                                                  | mũi và tình trạng mở rộng các khớp         | hình, theo dõi não úng thủy       |
+| ---                                                                                              | ------------------------------------------ | ------------------------------    |
+|                                                                                                  | Một loại bệnh của dị tật dính khớp sọ sớm  | Chụp MRI thai nhi, tránh sinh     |
+| (craniosynostosis); cũng gây ra các bất                                                          |
+| Hội chứng Apert FGFR2 thường ở ngón tay, ngón chân, đốt sống, bằng dụng cụ, phẫu thuật chỉnh     |
+|                                                                                                  | và các cơ quan khác                        | hình, theo dõi não úng thủy       |
+| --------------------------------------------------                                               | -------------------                        | ---------------------------       |
+| CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure                                               | 31                                         |                                   |
+
+| BỆNH/                                                                                                                       |                     |                                          |                                    | QUẢN LÝ                              |
+| --------------------------------------------------------------------------------------------------------------------------- | ------------------- | ---------------------------------------- | ---------------------------------- | ------------------------------------ |
+|                                                                                                                             | GEN                 | BIỂU HIỆN                                |                                    |                                      |
+| HỘI CHỨNG                                                                                                                   |                     |                                          |                                    | ĐIỀU TRỊ LÂM SÀNG                    |
+|                                                                                                                             |                     | Một dạng của dị tật dính sớm khớp sọ;    |                                    | Chụp MRI cho thai nhi, tránh sinh    |
+| Hội chứng Pfeiffer FGFR2 cũng gây mất thính giác, thiểu năng trí bằng dụng cụ, phẫu thuật chỉnh sửa,                        |
+|                                                                                                                             |                     | tuệ, bất thường ở tay và có thể dẫn đến  |                                    | theo dõi não úng thủy, áp dụng sớm   |
+| ---                                                                                                                         | ---                 | ---------------------------------------- | ---                                | ------------------------------------ |
+|                                                                                                                             |                     | tử vong sớm                              |                                    | điều trị ngôn ngữ ký hiệu và hành vi |
+| H ộ i c h ứ n g M ộ t d ạ n g c ủ a d ị t ậ t d ín h k h ớ p s ọ sớm; C h ụ p M R I t h a i n h i, t r á n h s i n h b ằ ng |
+| Ja ck s o n W e iss FGFR2 dụ n g c ụ , p h ẫ u th u ậ t c h ỉn h h ìn h ,                                                   |
+|                                                                                                                             |                     | có t h ể g â y r                         | a b ấ t th ư ờ n g ở c h â n       | theo dõi cho não úng thủy            |
+| ---                                                                                                                         | ---                 | -------------------                      | ---------------------------------- | -------------------------            |
+| PTPN11, SOS1, RAF1,                                                                                                         |
+| RIT1, KRAS, NRAS, Gây ra tầm vóc thấp, dị tật tim, các vấn Siêu âm tim thai, quản lý chuyển                                 |
+| Hội chứng Noonan đề về đông máu và trong một số dạ sinh con, đánh giá sớm quá                                               |
+|                                                                                                                             | SOS2, SHOC2, BRAF,  | trường hợp gây thiểu năng trí tuệ nhẹ    |                                    | trình phát triển                     |
+| ---                                                                                                                         | ------------------- | -------------------------------------    | ---                                | ----------------                     |
+| MAP2K1, HRAS, CBL                                                                                                           |
+| Tương tự như hội chứng Noonan, với                                                                                          |
+| các nốt da tăng sắc tố; gây ra tầm vóc                                                                                      |
+| Hội chứng LEOPARD PTPN11, RAF1 thấp, dị tật tim, các vấn đề về đông Siêu âm tim thai                                        |
+| máu, và trong một số trường hợp, thiểu                                                                                      |
+| năng trí tuệ mức độ nhẹ                                                                                                     |
+| Hội chứng                                                                                                                   | BRAF, MAP2K1,       | Gây ra các bất thường ở tim, mặt, da     |                                    |                                      |
+| ---------                                                                                                                   | --------------      | -------------------------------------    | ---                                | ---                                  |
+| Cardiofaciocutaneous và tóc; có thể chậm phát triển và thiểu Siêu âm tim thai                                               |
+| (Tim mạch - mặt - da)                                                                                                       | MAP2K2              | năng trí tuệ                             |                                    |                                      |
+| ---------------------                                                                                                       | -------             | ------------                             | ---                                | ---                                  |
+| Ảnh hưởng nhiều cơ quan và có thể                                                                                           |
+| gây ra các vấn đề về tăng trưởng, dị                                                                                        |
+| Hội chứng Alagille                                                                                                          | JAG1                |                                          |                                    | Điều trị dựa theo triệu chứng        |
+| ------------------                                                                                                          | -----               | ---                                      | ---                                | -----------------------------        |
+| tật tim bẩm sinh và các bất thường về                                                                                       |
+| đốt sống                                                                                                                    |
+| Viết tắt của Coloboma (hội chứng mắt                                                                                        |
+| mèo), heart defects (dị tật tim), atresia of                                                                                |
+| the choanae (tắc khoang mũi sau),                                                                                           |
+|                                                                                                                             |                     | retardation of growth and development    |                                    | Khám nội tiết sớm                    |
+| ---                                                                                                                         | ---                 | --------------------------------------   | ---                                | -----------------                    |
+| Hội chứng CHARGE CHD7 (chậm phát triển tăng trưởng), genital Áp dụng sớm điều trị ngôn ngữ ký                               |
+|                                                                                                                             |                     | abnormality (bất thường cơ quan sinh     |                                    | hiệu và hành vi                      |
+| ---                                                                                                                         | ---                 | -------------------------------------    | ---                                | ---------------                      |
+| dục), ear abnormalities (bất thường tai);                                                                                   |
+| nguy cơ mất thính lực, chậm phát triển và                                                                                   |
+| sứt môi và/hoặc chẻ vòm                                                                                                     |
+| Hội chứng NIPBL, SMC1A, Gây ra các bất thường về hình thái, Theo dõi các bất thường tim mạch,                               |
+|                                                                                                                             | SMC3, RAD21,        | nhận thức và là thách thức với ngành y   |                                    |                                      |
+| ------------------                                                                                                          | -------------       | ---------------------------------------- | ---                                | ---------------                      |
+| Cornelia de Lange                                                                                                           | HDAC8               | học                                      |                                    | tiêu hóa và chi                      |
+| Dị tật tim, thiểu năng trí tuệ, chậm                                                                                        |
+| Nuôi ăn qua sonde, điều trị hỗ trợ và                                                                                       |
+| Hội chứng Costello HRAS phát triển tăng trưởng, và nguy cơ điều trị hành vi                                                 |
+| phát triển các khối u ác tính                                                                                               |
+| Bệnh động kinh                                                                                                              | CDKL5               |                                          |                                    |                                      |
+| --------------                                                                                                              | ------              | ---                                      | ---                                | ---                                  |
+| ở trẻ em Động kinh và chậm phát triển thứ phát Theo dõi điều trị cơn động kinh                                              |
+| Thiểu năng trí tuệ SYNGAP1 Thiểu năng trí tuệ và chậm phát triển Áp dụng sớm các can thiệp hỗ trợ                           |
+| và điều trị hành vi sớm                                                                                                     |
+| Bệnh bạch cầu cấp                                                                                                           |
+| nguyên bào tủy vị                                                                                                           |                     | Một bệnh ung thư máu ở trẻ em hiếm       |                                    |                                      |
+| ------------------                                                                                                          | ---                 | -----------------------------------      | ---                                | ---                                  |
+| Theo dõi xét nghiệm máu và điều                                                                                             |
+| thành niên (Juvenile PTPN11, CBL gặp; tỷ lệ sống sót sau năm năm là trị chuyên khoa                                         |
+| myelomonocytic                                                                                                              |                     | khoảng 50%                               |                                    |                                      |
+| ---------------                                                                                                             | ---                 | ----------                               | ---                                | ---                                  |
+| leukemia)                                                                                                                   |
+| Gây ra sự thụt lùi nhanh chóng về ngôn                                                                                      |
+| Đánh giá nguy cơ tim mạch, theo                                                                                             |
+| Hội chứng Rett MECP2 ngữ và kỹ năng vận động khi trẻ 6-18 dõi và điều trị co giật, hỗ trợ điều                              |
+| tháng tuổi; tự kỷ, động kinh và hội                                                                                         |
+|                                                                                                                             |                     | chứng QT dài thường xuất hiện            |                                    | trị hành vi                          |
+| ---------------                                                                                                             | -----               | -------------------------------------    | ---                                | ------------------------------------ |
+|                                                                                                                             |                     | Hội chứng phát triển quá mức; có thể     |                                    | Siêu âm tim thai, siêu âm thận thai  |
+| Hội chứng Sotos                                                                                                             | NSD1                | gây chậm phát triển tâm thần và các      |                                    |                                      |
+|                                                                                                                             |                     | vấn đề về hành vi                        |                                    | và can thiệp điều trị hành vi sớm    |
+| Khối u lành tính phát triển ở nhiều hệ cơ                                                                                   |
+| Bệnh xơ cứng củ - quan trong cơ thể có thể nguy hiểm đến Siêu âm tim thai nhi, MRI sau sinh,                                |
+| Tuberous sclerosis TSC1, TSC2 tính mạng; cũng có thể gây động kinh và điều trị hỗ trợ hành vi                               |
+| chậm phát triển thứ phát                                                                                                    |
+| 32 www.genesolutions.vn                                                                                                     |
 
 BỆNH DI TRUYỀN LẶN ĐƠN GEN CHO MẸ,
 ĐÁNH GIÁ NGUY CƠ DI TRUYỀN CHO CON
@@ -1193,33 +1198,34 @@ và tích trữ trong lysosome-tiêu thể.
 ● Sự tích tụ glycogen gây ra tình trạng yếu cơ tiến triển (bệnh cơ) khắp cơ thể
 và ảnh hưởng đến các mô cơ thể khác nhau, đặc biệt là ở tim, cơ xương, gan và
 hệ thần kinh. Có 2 thể lâm sàng:
+
 - Thể khởi phát sớm (IOPD): khởi phát trước 12 tháng tuổi và có kèm bệnh lý cơ
-tim có thể biểu hiện trước sinh và triệu chứng thường rõ rệt hơn vào khoảng 4
-tháng tuổi với tình trạng giảm trương lực cơ, yếu cơ toàn thân, khó bú, chậm
-tăng trưởng, suy hô hấp và bệnh cơ tim phì đại. Nếu không được điều trị, bệnh
-thường dẫn đến tử vong trước 2 tuổi do tắc nghẽn đường ra thất trái tiến triển
-và suy hô hấp.
+  tim có thể biểu hiện trước sinh và triệu chứng thường rõ rệt hơn vào khoảng 4
+  tháng tuổi với tình trạng giảm trương lực cơ, yếu cơ toàn thân, khó bú, chậm
+  tăng trưởng, suy hô hấp và bệnh cơ tim phì đại. Nếu không được điều trị, bệnh
+  thường dẫn đến tử vong trước 2 tuổi do tắc nghẽn đường ra thất trái tiến triển
+  và suy hô hấp.
 - Thể khởi phát muộn (LOPD): khởi phát trước 12 tháng tuổi nhưng không kèm
-bệnh cơ tim hoặc khởi phát sau 12 tháng tuổi với biểu hiện yếu cơ và suy hô hấp.
-Điều trị
-Điều trị liệu pháp thay thế enzyme (ERT-Enzyme replacement therapy). Những
-trẻ được xác định là mắc bệnh Pompe nhưng chưa có triệu chứng cần phải bắt
-đầu điều trị ngay.
-Tiên lượng
-● Tiên lượng và tiến triển của bệnh phụ thuộc nhiều vào tuổi khởi phát, khởi
-phát càng sớm tiên lượng càng xấu.
-● Chẩn đoán sớm và điều trị kịp thời giúp làm chậm quá trình phát triển của
-bệnh và cải thiện đáng kể tiên lượng.
-GAA
-CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure 39
-3.31p 2.31p 1.31p
-21p
-2.11p 1.11q 1.11q 2.11q
-21q
-2.12q 13.12q 1.12q 33.12q
-22q
-2.32q 3.32q 1.42q 2.42q 3.42q 1.52q 3.52q
-17
+  bệnh cơ tim hoặc khởi phát sau 12 tháng tuổi với biểu hiện yếu cơ và suy hô hấp.
+  Điều trị
+  Điều trị liệu pháp thay thế enzyme (ERT-Enzyme replacement therapy). Những
+  trẻ được xác định là mắc bệnh Pompe nhưng chưa có triệu chứng cần phải bắt
+  đầu điều trị ngay.
+  Tiên lượng
+  ● Tiên lượng và tiến triển của bệnh phụ thuộc nhiều vào tuổi khởi phát, khởi
+  phát càng sớm tiên lượng càng xấu.
+  ● Chẩn đoán sớm và điều trị kịp thời giúp làm chậm quá trình phát triển của
+  bệnh và cải thiện đáng kể tiên lượng.
+  GAA
+  CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure 39
+  3.31p 2.31p 1.31p
+  21p
+  2.11p 1.11q 1.11q 2.11q
+  21q
+  2.12q 13.12q 1.12q 33.12q
+  22q
+  2.32q 3.32q 1.42q 2.42q 3.42q 1.52q 3.52q
+  17
 
 BỆNH WILSON (RỐI LOẠN CHUYỂN HÓA ĐỒNG)
 Gen khảo sát: Tất cả các đột biến điểm trên gen ATP7B
@@ -1554,6 +1560,7 @@ BỆNH TEO CƠ TỦY SMA
 (Xét nghiệm sàng lọc gen bệnh cho mẹ, tuỳ chọn có thu phí)
 5
 Tần suất mang gen theo nguồn:
+
 1. Tran, Ngoc Hieu, et al. "Genetic landscape of recessive diseases in the Vietnamese population from large‐scale clinical exome sequencing." Human Mutation 42.10 (2021): 1229-1238.
 2. Verhaart, I.E.C., Robertson, A., Wilson, I.J. et al. Prevalence, incidence and carrier frequency of 5q–linked spinal muscular atrophy – a literature review. Orphanet J Rare Dis 12, 124 (2017).
 3. Gregg, Anthony R., et al. "Screening for autosomal recessive and X-linked conditions during pregnancy and preconception: a practice resource of the American College of Medical Genetics and Genomics (ACMG)." Genetics in Medicine 23.10 (2021): 1793-1806.
@@ -1590,6 +1597,7 @@ HỘI CHỨNG NST X DỄ GÃY (FRAGILE X)
 (Xét nghiệm sàng lọc gen bệnh cho mẹ, tuỳ chọn có thu phí)
 X
 Tần suất mang gen theo nguồn:
+
 1. Tran, Ngoc Hieu, et al. "Genetic landscape of recessive diseases in the Vietnamese population from large‐scale clinical exome sequencing." Human Mutation 42.10 (2021): 1229-1238.
 2. Verhaart, I.E.C., Robertson, A., Wilson, I.J. et al. Prevalence, incidence and carrier frequency of 5q–linked spinal muscular atrophy – a literature review. Orphanet J Rare Dis 12, 124 (2017).
 3. Gregg, Anthony R., et al. "Screening for autosomal recessive and X-linked conditions during pregnancy and preconception: a practice resource of the American College of Medical Genetics and Genomics (ACMG)." Genetics in Medicine 23.10 (2021): 1793-1806.
@@ -1671,28 +1679,35 @@ BỆNH DI TRUYỀN LẶN TRÊN NST THƯỜNG
 QUY TRÌNH TƯ VẤN KẾT QUẢ
 Thai phụ
 -
+
 -Tư vấn
 -
+
 -
+
 Sàng lọc gen bệnh thể ẩn
 --- Khám thai định kỳ
 (bệnh di truyền lặn)
+
 - +
--Kết quả dương tính
+  -Kết quả dương tính
 - (+) thai phụ mang đột biến gây bệnh
-Chồng (-) thai phụ không mang đột biến gây bệnh
-(Tư vấn & khuyến cáo (++) cả thai phụ & chồng đều mang đột
-thực hiện xét nghiệm gen có thu phí)
-biến gây bệnh thể ẩn trên cùng một gen
+  Chồng (-) thai phụ không mang đột biến gây bệnh
+  (Tư vấn & khuyến cáo (++) cả thai phụ & chồng đều mang đột
+  thực hiện xét nghiệm gen có thu phí)
+  biến gây bệnh thể ẩn trên cùng một gen
 -
 - Tư vấn
 -
 -
+
 Sàng lọc gen bệnh thể ẩn --- Khám thai định kỳ
 (bệnh di truyền lặn)
+
 - ++
 - Kết quả dương tính
 -
+
 Trung tâm chẩn đoán trước sinh
 Chẩn đoán trước sinh /hoặc sau sinh cho trẻ theo sự đồng thuận của vợ chồng
 Tư vấn các giải pháp phòng ngừa cho thai kỳ sau
@@ -1712,35 +1727,42 @@ BỆNH DI TRUYỀN LẶN TRÊN NST GIỚI TÍNH X
 QUY TRÌNH TƯ VẤN KẾT QUẢ
 Thai phụ
 -
+
 -Tư vấn
 -
+
 -
+
 Sàng lọc gen bệnh thể ẩn
-|     | --- | Khám thai định kỳ |
-| --- | --- | ----------------- |
-(bệnh di truyền lặn)
-| -   | +   |     |
-| --- | --- | --- |
--Kết quả dương tính
+
+|                      | --- | Khám thai định kỳ |
+| -------------------- | --- | ----------------- |
+| (bệnh di truyền lặn) |
+| -                    | +   |                   |
+| ---                  | --- | ---               |
+| -Kết quả dương tính  |
+
 -
+
 Trung tâm chẩn đoán trước sinh
 Chẩn đoán trước sinh /hoặc sau sinh cho trẻ theo sự đồng thuận của vợ chồng
 Tư vấn các giải pháp phòng ngừa cho thai kỳ sau
 (+) thai phụ mang đột biến gây bệnh
 (-) thai phụ không mang đột biến gây bệnh
-| Bố không mang gen                   |                             | Mẹ mang gen            |
-| ----------------------------------- | --------------------------- | ---------------------- |
-| bệnh thể ẩn                         |                             | bệnh thể ẩn            |
-| (không biểu hiện bệnh)              |                             | (không biểu hiện bệnh) |
-| Không mang  Nhận 01 gen bệnh thể ẩn |                             | Không mang             |
-| gen bệnh thể ẩn                     | từ mẹ                       | gen bệnh thể ẩn        |
-| Con gái không biểu hiện bệnh        | 50% con trai biểu hiện bệnh |                        |
-Con gái Con trai
-50% không mang gen bệnh 50% không mang gen bệnhh
-50% trở thành người lành
-50% mắc bệnh
-mang gen bệnh
-58 www.genesolutions.vn
+
+| Bố không mang gen                                |                             | Mẹ mang gen            |
+| ------------------------------------------------ | --------------------------- | ---------------------- |
+| bệnh thể ẩn                                      |                             | bệnh thể ẩn            |
+| (không biểu hiện bệnh)                           |                             | (không biểu hiện bệnh) |
+| Không mang Nhận 01 gen bệnh thể ẩn               |                             | Không mang             |
+| gen bệnh thể ẩn                                  | từ mẹ                       | gen bệnh thể ẩn        |
+| Con gái không biểu hiện bệnh                     | 50% con trai biểu hiện bệnh |                        |
+| Con gái Con trai                                 |
+| 50% không mang gen bệnh 50% không mang gen bệnhh |
+| 50% trở thành người lành                         |
+| 50% mắc bệnh                                     |
+| mang gen bệnh                                    |
+| 58 www.genesolutions.vn                          |
 
 GIỚI HẠN CỦA XÉT NGHIỆM
 được khuyến cáo KHÔNG NÊN
@@ -1748,44 +1770,47 @@ NIPT
 thực hiện cho một trong những
 trường hợp sau:
 -
+
 -
-| - - - - - | - - - - - - | - - - - - - - - - | - - - - - - - | - - - - - - | - -           |           |
-| --------- | ----------- | ----------------- | ------------- | ----------- | ------------- | --------- |
-| -         |             | -                 |               | -           | - - - - - - - | - - - - - |
-| -         |             | -                 |               | -           |               | -         |
-| -         |             | -                 |               | -           |               | -         |
-Siêu âm có bất thường
-Thai có độ mờ da gáy
-|                          | Giá trị nguy cơ của  |     | về cấu trúc (ít nhất 1 bất  |     |                     |     |
-| ------------------------ | -------------------- | --- | --------------------------- | --- | ------------------- | --- |
-| (Nuchal translucency-NT) |                      |     |                             |     | Song thai tiêu biến |     |
-|                          | Combined test >1/50  |     | thường lớn hoặc 2 bất       |     |                     |     |
->3,5mm
-thường nhỏ)
-THAI PHỤ NÊN THỰC HIỆN CHẨN ĐOÁN
-(CHỌC ỐI HOẶC SINH THIẾT GAI NHAU)
-CÁC LOẠI KHẢM NHIỄM SẮC THỂ
-Tế bào bình thường
-Tế bào bất thường
-| Cả thai và bánh nhau  |     | Bánh nhau bị khảm |     |     | Thai bị khảm |     |
-| --------------------- | --- | ----------------- | --- | --- | ------------ | --- |
-đều bị khảm
-Thể khảm khu trú
-| Khảm toàn bộ |     |     |     |     | Thể khảm ở thai |     |
-| ------------ | --- | --- | --- | --- | --------------- | --- |
-bánh nhau
-Nằm ngoài phạm vi  Sự xuất hiện hai dòng tế  Sự xuất hiện hai dòng tế
-khảo sát của NIPT. bào có nhiễm sắc thể khác  bào có nhiễm sắc thể khác
-|     |     | nhau  trở  lên          | ở  nhau  | thai,  nhau trở lên ở bào thai,  |     |     |
-| --- | --- | ----------------------- | -------- | -------------------------------- | --- | --- |
-|     |     | không có ở bào thai.    |          | không có ở nhau thai.            |     |     |
-|     |     | Có thể dẫn đến kết quả  |          | Có thể dẫn đến kết quả           |     |     |
-|     |     | NIPT dương tính giả.    |          | NIPT âm tính giả.                |     |     |
-Grati FR. J clin Med.2014;3(3):809-837.
-Van Opstal D, et al. PLoS One. 2016;11 (1):e0146794.
-Kalousek DK. Pediatr Pathol. 1900;10(1-2):69-77.
-59
-CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure
+
+| - - - - -                | - - - - - -          | - - - - - - - - - | - - - - - - -               | - - - - - - | - -                 |           |
+| ------------------------ | -------------------- | ----------------- | --------------------------- | ----------- | ------------------- | --------- |
+| -                        |                      | -                 |                             | -           | - - - - - - -       | - - - - - |
+| -                        |                      | -                 |                             | -           |                     | -         |
+| -                        |                      | -                 |                             | -           |                     | -         |
+| Siêu âm có bất thường    |
+| Thai có độ mờ da gáy     |
+|                          | Giá trị nguy cơ của  |                   | về cấu trúc (ít nhất 1 bất  |             |                     |           |
+| ------------------------ | -------------------- | ---               | --------------------------- | ---         | ------------------- | ---       |
+| (Nuchal translucency-NT) |                      |                   |                             |             | Song thai tiêu biến |           |
+|                          | Combined test >1/50  |                   | thường lớn hoặc 2 bất       |             |                     |           |
+
+> 3,5mm
+> thường nhỏ)
+> THAI PHỤ NÊN THỰC HIỆN CHẨN ĐOÁN
+> (CHỌC ỐI HOẶC SINH THIẾT GAI NHAU)
+> CÁC LOẠI KHẢM NHIỄM SẮC THỂ
+> Tế bào bình thường
+> Tế bào bất thường
+> | Cả thai và bánh nhau | | Bánh nhau bị khảm | | | Thai bị khảm | |
+> | --------------------- | --- | ----------------- | --- | --- | ------------ | --- |
+> đều bị khảm
+> Thể khảm khu trú
+> | Khảm toàn bộ | | | | | Thể khảm ở thai | |
+> | ------------ | --- | --- | --- | --- | --------------- | --- |
+> bánh nhau
+> Nằm ngoài phạm vi Sự xuất hiện hai dòng tế Sự xuất hiện hai dòng tế
+> khảo sát của NIPT. bào có nhiễm sắc thể khác bào có nhiễm sắc thể khác
+> | | | nhau trở lên | ở nhau | thai, nhau trở lên ở bào thai, | | |
+> | --- | --- | ----------------------- | -------- | -------------------------------- | --- | --- |
+> | | | không có ở bào thai. | | không có ở nhau thai. | | |
+> | | | Có thể dẫn đến kết quả | | Có thể dẫn đến kết quả | | |
+> | | | NIPT dương tính giả. | | NIPT âm tính giả. | | |
+> Grati FR. J clin Med.2014;3(3):809-837.
+> Van Opstal D, et al. PLoS One. 2016;11 (1):e0146794.
+> Kalousek DK. Pediatr Pathol. 1900;10(1-2):69-77.
+> 59
+> CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure
 
 CHÍNH SÁCH HỖ TRỢ
 Gene Solutions (GS) cung cấp các chương trình hỗ trợ khi thai phụ thực hiện xét nghiệm trước sinh không xâm lấn (NIPT) triSureFirst, triSure3, triSure Thalass, triSure9.5 (NIPT9.5), triSure, triSure
@@ -1808,58 +1833,60 @@ Với xét nghiệm Sàng lọc 18 bệnh di truyền lặn triSure Carrier
 ● Âm tính: Không phát hiện đột biến gây bệnh trên các gen được khảo sát từ mẫu được xét nghiệm.
 CÁC ĐIỀU KIỆN ĐƯỢC HƯỞNG HỖ TRỢ
 KẾT QUẢ LOẠI XÉT NGHIỆM CHƯƠNG TRÌNH HỖ TRỢ TRỊ GIÁ
+
 1. Kết quả là Dương tính Với gói triSureFirst Hỗ trợ tài chính chi phí thực hiện chọc ối/ sinh thiết gai nhau. Mức hỗ trợ sẽ được dựa trên hóa đơn Tối đa 1.500.000 đồng
-(Z - score ≥ 3) thanh toán thực tế từ Bệnh viện.
-H (2 o ≤ ặ c Z N - g s h c i o n re g ờ < 3) Miễn phí xét nghiệm gen chẩn đoán CNVSure nếu mẫu dịch ối của thai phụ được gửi về GS để thực hiện. Trị giá 4.500.000 đồng
-Với các gói triSure3, Hỗ trợ tài chính chi phí thực hiện chọc ối/ sinh thiết gai nhau. Mức hỗ trợ sẽ được dựa trên hóa đơn Tối đa 3.500.000 đồng
-triSure Thalass, triSure9.5, thanh toán thực tế từ Bệnh viện.
-triSure Miễn phí xét nghiệm gen chẩn đoán CNVSure nếu mẫu dịch ối của thai phụ được gửi về GS để thực hiện. Trị giá 4.500.000 đồng
-Với gói triSure Procare Hỗ trợ tài chính chi phí chọc ối/ sinh thiết gai nhau và xét nghiệm gen chẩn đoán cho thai (mẫu sinh Tối đa 9.000.000 đồng
-thiết gai nhau/ mẫu ối) hoặc cho bé sau sinh (mẫu máu, phết niêm mạc) khi kết quả sàng lọc dương
-tính với các bất thường nhiễm sắc thể/ các gen mục tiêu. Mức hỗ trợ sẽ được dựa trên hóa đơn
-thanh toán thực tế từ Bệnh viện.
-Kết quả Dương tính - thai có nguy cơ cao bị bất thường nhiễm sắc thể: Miễn phí xét nghiệm gen chẩn Trị giá 4.500.000 đồng
-đoán CNVSure nếu mẫu dịch ối của thai phụ được gửi về GS để thực hiện.
-· Kết quả thai có nguy cơ cao bị đột biến gen liên quan 25 bệnh di truyền trội: Miễn phí xét nghiệm Trị giá 6.500.000 đồng
-gen chẩn đoán cho chồng để xác định đột biến của thai là đột biến gen mới (de novo) xuất hiện
-· Kết quả Dương tính - thai có nguy cơ cao bị đột biến gen mới (de novo) liên quan 25 bệnh di truyền
-trội: Miễn phí xét nghiệm gen chẩn đoán cho thai (mẫu sinh thiết gai nhau/ mẫu ối) hoặc cho bé sau
-sinh (mẫu máu, phết niêm mạc) gửi về GS để thực hiện.
-Kết quả Dương tính - thai phụ mang đột biến gen liên quan 18 bệnh di truyền lặn: Miễn phí sàng lọc Tối đa 5.000.000 đồng
-7.535 đột biến gây bệnh liên quan 18 bệnh di truyền lặn cho chồng. Trường hợp người chồng cũng
-có kết quả "Dương tính" trên cùng gen đột biến với vợ, tiếp tục hỗ trợ xét nghiệm chẩn đoán miễn
-phí 7.535 đột biến gây bệnh liên quan 18 bệnh di truyền lặn cho con.
+   (Z - score ≥ 3) thanh toán thực tế từ Bệnh viện.
+   H (2 o ≤ ặ c Z N - g s h c i o n re g ờ < 3) Miễn phí xét nghiệm gen chẩn đoán CNVSure nếu mẫu dịch ối của thai phụ được gửi về GS để thực hiện. Trị giá 4.500.000 đồng
+   Với các gói triSure3, Hỗ trợ tài chính chi phí thực hiện chọc ối/ sinh thiết gai nhau. Mức hỗ trợ sẽ được dựa trên hóa đơn Tối đa 3.500.000 đồng
+   triSure Thalass, triSure9.5, thanh toán thực tế từ Bệnh viện.
+   triSure Miễn phí xét nghiệm gen chẩn đoán CNVSure nếu mẫu dịch ối của thai phụ được gửi về GS để thực hiện. Trị giá 4.500.000 đồng
+   Với gói triSure Procare Hỗ trợ tài chính chi phí chọc ối/ sinh thiết gai nhau và xét nghiệm gen chẩn đoán cho thai (mẫu sinh Tối đa 9.000.000 đồng
+   thiết gai nhau/ mẫu ối) hoặc cho bé sau sinh (mẫu máu, phết niêm mạc) khi kết quả sàng lọc dương
+   tính với các bất thường nhiễm sắc thể/ các gen mục tiêu. Mức hỗ trợ sẽ được dựa trên hóa đơn
+   thanh toán thực tế từ Bệnh viện.
+   Kết quả Dương tính - thai có nguy cơ cao bị bất thường nhiễm sắc thể: Miễn phí xét nghiệm gen chẩn Trị giá 4.500.000 đồng
+   đoán CNVSure nếu mẫu dịch ối của thai phụ được gửi về GS để thực hiện.
+   · Kết quả thai có nguy cơ cao bị đột biến gen liên quan 25 bệnh di truyền trội: Miễn phí xét nghiệm Trị giá 6.500.000 đồng
+   gen chẩn đoán cho chồng để xác định đột biến của thai là đột biến gen mới (de novo) xuất hiện
+   · Kết quả Dương tính - thai có nguy cơ cao bị đột biến gen mới (de novo) liên quan 25 bệnh di truyền
+   trội: Miễn phí xét nghiệm gen chẩn đoán cho thai (mẫu sinh thiết gai nhau/ mẫu ối) hoặc cho bé sau
+   sinh (mẫu máu, phết niêm mạc) gửi về GS để thực hiện.
+   Kết quả Dương tính - thai phụ mang đột biến gen liên quan 18 bệnh di truyền lặn: Miễn phí sàng lọc Tối đa 5.000.000 đồng
+   7.535 đột biến gây bệnh liên quan 18 bệnh di truyền lặn cho chồng. Trường hợp người chồng cũng
+   có kết quả "Dương tính" trên cùng gen đột biến với vợ, tiếp tục hỗ trợ xét nghiệm chẩn đoán miễn
+   phí 7.535 đột biến gây bệnh liên quan 18 bệnh di truyền lặn cho con.
 2. Kết quả là “không có kết quả” Với các gói triSureFirst, · Thai phụ được thu mẫu miễn phí lần 2 - sau ít nhất 2 tuần và thai lớn hơn 15 tuần tuổi. Tối đa 3.500.000 đồng
-(Do hàm lượng DNA của con trong máu mẹ triSure3, triSure Thalass, · Hỗ trợ tài chính chi phí thực hiện chọc ối/ sinh thiết gai nhau nếu thai phụ làm xét nghiệm triSure lần 2 (chi phí thực hiện
-quá thấp, <2-4% tùy trường hợp cụ thể) triSure9.5, triSure, vẫn “không có kết quả”. chọc ối/sinh thiết gai nhau)
-triSure Procare
+   (Do hàm lượng DNA của con trong máu mẹ triSure3, triSure Thalass, · Hỗ trợ tài chính chi phí thực hiện chọc ối/ sinh thiết gai nhau nếu thai phụ làm xét nghiệm triSure lần 2 (chi phí thực hiện
+   quá thấp, <2-4% tùy trường hợp cụ thể) triSure9.5, triSure, vẫn “không có kết quả”. chọc ối/sinh thiết gai nhau)
+   triSure Procare
 3. Kết quả là “Âm tính” (Z - score <2)
-3.1 Kết quả siêu âm bất thường Với các gói triSure3, triSure Miễn phí xét nghiệm gen chẩn đoán CNVSure/ G4500 nếu thai phụ có kết quả triSure “Âm tính” nhưng Trị giá 8.500.000 đồng
-Thalass, triSure9.5, triSure, sau đó siêu âm có bất thường. Xét nghiệm gen chẩn đoán CNVSure/ G4500 được thực hiện dựa trên
-triSure Procare mẫu dịch ối/ gai nhau của thai phụ để tìm nguyên nhân bất thường theo chỉ định của bác sĩ chuyên môn.
-3.2 Xác định "Âm tính giả" Với các gói triSureFirst, Hỗ trợ tài chính nếu kết quả xét nghiệm triSure là "Âm tính" với tam nhiễm sắc thể 21, 18, 13 nhưng sau Trị giá 30.000.000 đồng
-trước sinh: triSure3, triSure Thalass, đó thai phụ làm chẩn đoán trước sinh trong quá trình mang thai (Karyotype, QF-PCR, BOBS, FISH,
-triSure9.5, triSure, CNV-seq, microarray) tại 2 đơn vị độc lập, kết quả xâm lấn là “Dương tính” của một hoặc hai thai với các
-triSure Procare hội chứng nêu trên.
-Hỗ trợ tài chính nếu kết quả xét nghiệm triSure Procare là "Âm tính" với 1 trong 25 bệnh đơn gen trội bất Trị giá 30.000.000 đồng
-kỳ nhưng sau đó thai phụ làm chẩn đoán trước sinh trong quá trình mang thai (Sanger, NGS) tại 2 đơn
-vị độc lập, kết quả là "Dương tính" - thai mang đột biến gây bệnh với các hội chứng sàng lọc liên quan
-đến 30 gen mục tiêu.
-3.3 Xác định "Âm tính giả" Với gói triSureFirst Hỗ trợ tài chính nếu kết quả xét nghiệm triSure là "Âm tính" với tam nhiễm sắc thể 21, 18, 13 nhưng sau Trị giá 100.000.000 đồng
-sau sinh: đó bé sinh ra và xác định mắc một trong các hội chứng nêu trên và được chẩn đoán xác định bằng xét
-Với các gói triSure3, nghiệm chẩn đoán (Karyotype, QF-PCR, BOBS, FISH, CNV-seq, microarray) tại 2 đơn vị độc lập trong Trị giá 200.000.000 đồng
-triSure Thalass, triSure9.5, vòng 01 năm kể từ lúc sinh ra.
-triSure, triSure Procare
-Hỗ trợ tài chính nếu kết quả xét nghiệm triSure Procare là "Âm tính" với 1 trong 25 bệnh đơn gen trội bất Trị giá 200.000.000 đồng
-kỳ nhưng bé sinh ra và xác định mắc một trong các hội chứng sàng lọc liên quan đến 30 gen khảo sát và
-được chẩn đoán xác định bằng xét nghiệm gen (Sanger, NGS) trong vòng 01 năm kể từ lúc sinh ra.
-Lưu ý:
+   3.1 Kết quả siêu âm bất thường Với các gói triSure3, triSure Miễn phí xét nghiệm gen chẩn đoán CNVSure/ G4500 nếu thai phụ có kết quả triSure “Âm tính” nhưng Trị giá 8.500.000 đồng
+   Thalass, triSure9.5, triSure, sau đó siêu âm có bất thường. Xét nghiệm gen chẩn đoán CNVSure/ G4500 được thực hiện dựa trên
+   triSure Procare mẫu dịch ối/ gai nhau của thai phụ để tìm nguyên nhân bất thường theo chỉ định của bác sĩ chuyên môn.
+   3.2 Xác định "Âm tính giả" Với các gói triSureFirst, Hỗ trợ tài chính nếu kết quả xét nghiệm triSure là "Âm tính" với tam nhiễm sắc thể 21, 18, 13 nhưng sau Trị giá 30.000.000 đồng
+   trước sinh: triSure3, triSure Thalass, đó thai phụ làm chẩn đoán trước sinh trong quá trình mang thai (Karyotype, QF-PCR, BOBS, FISH,
+   triSure9.5, triSure, CNV-seq, microarray) tại 2 đơn vị độc lập, kết quả xâm lấn là “Dương tính” của một hoặc hai thai với các
+   triSure Procare hội chứng nêu trên.
+   Hỗ trợ tài chính nếu kết quả xét nghiệm triSure Procare là "Âm tính" với 1 trong 25 bệnh đơn gen trội bất Trị giá 30.000.000 đồng
+   kỳ nhưng sau đó thai phụ làm chẩn đoán trước sinh trong quá trình mang thai (Sanger, NGS) tại 2 đơn
+   vị độc lập, kết quả là "Dương tính" - thai mang đột biến gây bệnh với các hội chứng sàng lọc liên quan
+   đến 30 gen mục tiêu.
+   3.3 Xác định "Âm tính giả" Với gói triSureFirst Hỗ trợ tài chính nếu kết quả xét nghiệm triSure là "Âm tính" với tam nhiễm sắc thể 21, 18, 13 nhưng sau Trị giá 100.000.000 đồng
+   sau sinh: đó bé sinh ra và xác định mắc một trong các hội chứng nêu trên và được chẩn đoán xác định bằng xét
+   Với các gói triSure3, nghiệm chẩn đoán (Karyotype, QF-PCR, BOBS, FISH, CNV-seq, microarray) tại 2 đơn vị độc lập trong Trị giá 200.000.000 đồng
+   triSure Thalass, triSure9.5, vòng 01 năm kể từ lúc sinh ra.
+   triSure, triSure Procare
+   Hỗ trợ tài chính nếu kết quả xét nghiệm triSure Procare là "Âm tính" với 1 trong 25 bệnh đơn gen trội bất Trị giá 200.000.000 đồng
+   kỳ nhưng bé sinh ra và xác định mắc một trong các hội chứng sàng lọc liên quan đến 30 gen khảo sát và
+   được chẩn đoán xác định bằng xét nghiệm gen (Sanger, NGS) trong vòng 01 năm kể từ lúc sinh ra.
+   Lưu ý:
+
 - Hỗ trợ “Âm tính giả” song thai chỉ được áp dụng cho 2 gói xét nghiệm: triSure và triSure9.5
 - CNVSure: Là xét nghiệm khảo sát các bất thường số lượng và cấu trúc của 23 cặp NST.
 - G4500: Là xét nghiệm giải trình tự toàn bộ 4.503 gen gây bệnh ở người.
-Thông tin về thủ tục hồ sơ thanh toán xem chi tiết tại bản rời “Chương trình hỗ trợ triSureCare”.
-Mọi thắc mắc vui lòng liên hệ với chúng tôi qua hotline 0287 101 8688 hoặc email support@genesolutions.vn.
-60 www.genesolutions.vn
+  Thông tin về thủ tục hồ sơ thanh toán xem chi tiết tại bản rời “Chương trình hỗ trợ triSureCare”.
+  Mọi thắc mắc vui lòng liên hệ với chúng tôi qua hotline 0287 101 8688 hoặc email support@genesolutions.vn.
+  60 www.genesolutions.vn
 
 CHÍNH SÁCH HỖ TRỢ
 CÁC TRƯỜNG HỢP KHÔNG ĐƯỢC NHẬN HỖ TRỢ ÂM TÍNH GIẢ
@@ -1868,48 +1895,49 @@ CÁC TRƯỜNG HỢP KHÔNG ĐƯỢC NHẬN HỖ TRỢ ÂM TÍNH GIẢ
 · Không áp dụng cho đột biến mới được phân loại gây bệnh/ có khả năng gây bệnh theo Clinvar sau thời điểm thai phụ thực hiện xét nghiệm.
 · Không áp dụng cho các xét nghiệm/ siêu âm (trong khoảng thời gian từ ngày trả kết quả xét nghiệm triSure NIPT đến khi sinh) có phát hiện
 hoặc nghi ngờ bất thường liên quan đến thai nhi/ thai phụ nhưng:
-+ Thai phụ không liên hệ với GS để được tư vấn các bước chẩn đoán tiếp theo.
-+ Thai phụ từ chối các chỉ định của bác sĩ thực hiện thủ thuật xâm lấn như chọc ối/ sinh thiết gai nhau để làm xét nghiệm chẩn đoán khẳng định
-bất thường.
-+ Thai phụ được bác sĩ chỉ định thực hiện thủ thuật xâm lấn như chọc ối/ sinh thiết gai nhau để làm xét nghiệm chẩn đoán khẳng định bất thường
-nhưng không thực hiện.
-· Không có quan hệ huyết thống mẹ con giữa thai phụ và thai nhi (mang thai tự nhiên).
-HỒ SƠ CHỨNG TỪ THANH TOÁN
-Khách hàng cần cung cấp đầy đủ các giấy tờ sau để làm thủ tục nhận hỗ trợ tài chính. Yêu cầu toàn bộ giấy tờ sử dụng bản chính hoặc bản sao
-y công chứng.
-Trường hợp kết quả triSure Trường hợp kết quả triSure “Âm tính giả”
-“Dương tính” hoặc “Nghi ngờ” Phát hiện Âm tính giả trước sinh Phát hiện Âm tính giả sau sinh
-· Kết quả chẩn đoán (Karyotype, QF-PCR, · Kết quả chẩn đoán (Karyotype, QF-PCR, · Kết quả xét nghiệm triSure NIPT
-BOBS, FISH, CNV-seq, microarray), hóa BOBS, FISH, CNV-seq, microarray, Sanger, (triSureFirst/triSure3/triSure Thalass/
-đơn/phiếu thu thực tế chi phí thực hiện thủ NGS) của 2 đơn vị độc lập. triSure9.5/triSure/triSure Procare).
-thuật xâm lấn và/hoặc xét nghiệm chẩn · Kết quả xét nghiệm triSure NIPT · Kết quả siêu âm hình thái thai từ tuần
-đoán sau xâm lấn. (triSureFirst/triSure3/triSure Thalass/ 18-22 và 30-32.
-· Kết quả xét nghiệm triSure NIPT triSure9.5/triSure/triSure Procare). · Kết quả chẩn đoán của con (Karyotype,
-(triSureFirst/triSure3/triSure Thalass/ · Kết quả siêu âm hình thái thai từ tuần QF-PCR, BOBS, FISH, CNV-seq, microarray,
-triSure9.5/triSure/triSure Procare). 18-22 và 30-32. Sanger, NGS) của 2 đơn vị độc lập.
-· Kết quả siêu âm thai gần nhất. · CMND hoặc Thẻ căn cước của người làm · CMND hoặc Thẻ căn cước của người làm
-· CMND hoặc Thẻ căn cước của người làm xét nghiệm. xét nghiệm.
-xét nghiệm. · Số tài khoản ngân hàng chính chủ của · Giấy khai sinh hoặc giấy chứng sinh của con.
-· Số tài khoản ngân hàng chính chủ của người được nhận hỗ trợ · Số tài khoản ngân hàng chính chủ của
-người được nhận hỗ trợ người được nhận hỗ trợ
-· Thời hạn trong vòng 12 tháng kể từ ngày
-có kết quả xét nghiệm.
-HỒ SƠ GỬI VỀ ĐỊA CHỈ CÔNG TY TNHH GENE SOLUTIONS LAB
-· Hồ Chí Minh: 186-188 Nguyễn Duy Dương, Phường Vườn Lài
-· Hà Nội: Tầng 5, tòa nhà NHS Center, số 214 Hào Nam, Phường Ô Chợ Dừa
-THẨM ĐỊNH HỒ SƠ
-· Nguyên tắc thẩm định: Bộ phận thẩm định tiếp nhận hồ sơ đề nghị hỗ trợ và thẩm định trên nguyên tắc độc lập dựa trên chính sách hỗ trợ này
-và hồ sơ được nhận.
-· Bộ phận thẩm định có trách nhiệm kiểm tra, đối chiếu, xác minh các tài liệu, chứng từ để đảm bảo tuân thủ quy định luật hiện hành và chính
-sách này.
-· Bộ phận thẩm định phê duyệt chi phí hỗ trợ dựa trên hồ sơ chứng từ đính kèm yêu cầu thanh toán. Trong mọi trường hợp, chi phí hỗ trợ cho
-từng yêu cầu hỗ trợ cụ thể không được vượt quá mức hỗ trợ đã được phê duyệt ở chính sách này.Thời gian thẩm định hồ sơ: trong vòng 45 (bốn
-mươi lăm) ngày kể từ ngày bộ phận thẩm định nhận đủ hồ sơ yêu cầu thanh toán.
-THANH TOÁN
-Thời gian thanh toán được thực hiện trong vòng 15 (mười lăm) ngày kể từ ngày hồ sơ được Bộ phận thẩm định phê duyệt.
-HIỆU LỰC ÁP DỤNG
-Áp dụng kể từ ngày 15/02/2025 cho đến khi có thông báo mới.
-CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure 61
+
+- Thai phụ không liên hệ với GS để được tư vấn các bước chẩn đoán tiếp theo.
+- Thai phụ từ chối các chỉ định của bác sĩ thực hiện thủ thuật xâm lấn như chọc ối/ sinh thiết gai nhau để làm xét nghiệm chẩn đoán khẳng định
+  bất thường.
+- Thai phụ được bác sĩ chỉ định thực hiện thủ thuật xâm lấn như chọc ối/ sinh thiết gai nhau để làm xét nghiệm chẩn đoán khẳng định bất thường
+  nhưng không thực hiện.
+  · Không có quan hệ huyết thống mẹ con giữa thai phụ và thai nhi (mang thai tự nhiên).
+  HỒ SƠ CHỨNG TỪ THANH TOÁN
+  Khách hàng cần cung cấp đầy đủ các giấy tờ sau để làm thủ tục nhận hỗ trợ tài chính. Yêu cầu toàn bộ giấy tờ sử dụng bản chính hoặc bản sao
+  y công chứng.
+  Trường hợp kết quả triSure Trường hợp kết quả triSure “Âm tính giả”
+  “Dương tính” hoặc “Nghi ngờ” Phát hiện Âm tính giả trước sinh Phát hiện Âm tính giả sau sinh
+  · Kết quả chẩn đoán (Karyotype, QF-PCR, · Kết quả chẩn đoán (Karyotype, QF-PCR, · Kết quả xét nghiệm triSure NIPT
+  BOBS, FISH, CNV-seq, microarray), hóa BOBS, FISH, CNV-seq, microarray, Sanger, (triSureFirst/triSure3/triSure Thalass/
+  đơn/phiếu thu thực tế chi phí thực hiện thủ NGS) của 2 đơn vị độc lập. triSure9.5/triSure/triSure Procare).
+  thuật xâm lấn và/hoặc xét nghiệm chẩn · Kết quả xét nghiệm triSure NIPT · Kết quả siêu âm hình thái thai từ tuần
+  đoán sau xâm lấn. (triSureFirst/triSure3/triSure Thalass/ 18-22 và 30-32.
+  · Kết quả xét nghiệm triSure NIPT triSure9.5/triSure/triSure Procare). · Kết quả chẩn đoán của con (Karyotype,
+  (triSureFirst/triSure3/triSure Thalass/ · Kết quả siêu âm hình thái thai từ tuần QF-PCR, BOBS, FISH, CNV-seq, microarray,
+  triSure9.5/triSure/triSure Procare). 18-22 và 30-32. Sanger, NGS) của 2 đơn vị độc lập.
+  · Kết quả siêu âm thai gần nhất. · CMND hoặc Thẻ căn cước của người làm · CMND hoặc Thẻ căn cước của người làm
+  · CMND hoặc Thẻ căn cước của người làm xét nghiệm. xét nghiệm.
+  xét nghiệm. · Số tài khoản ngân hàng chính chủ của · Giấy khai sinh hoặc giấy chứng sinh của con.
+  · Số tài khoản ngân hàng chính chủ của người được nhận hỗ trợ · Số tài khoản ngân hàng chính chủ của
+  người được nhận hỗ trợ người được nhận hỗ trợ
+  · Thời hạn trong vòng 12 tháng kể từ ngày
+  có kết quả xét nghiệm.
+  HỒ SƠ GỬI VỀ ĐỊA CHỈ CÔNG TY TNHH GENE SOLUTIONS LAB
+  · Hồ Chí Minh: 186-188 Nguyễn Duy Dương, Phường Vườn Lài
+  · Hà Nội: Tầng 5, tòa nhà NHS Center, số 214 Hào Nam, Phường Ô Chợ Dừa
+  THẨM ĐỊNH HỒ SƠ
+  · Nguyên tắc thẩm định: Bộ phận thẩm định tiếp nhận hồ sơ đề nghị hỗ trợ và thẩm định trên nguyên tắc độc lập dựa trên chính sách hỗ trợ này
+  và hồ sơ được nhận.
+  · Bộ phận thẩm định có trách nhiệm kiểm tra, đối chiếu, xác minh các tài liệu, chứng từ để đảm bảo tuân thủ quy định luật hiện hành và chính
+  sách này.
+  · Bộ phận thẩm định phê duyệt chi phí hỗ trợ dựa trên hồ sơ chứng từ đính kèm yêu cầu thanh toán. Trong mọi trường hợp, chi phí hỗ trợ cho
+  từng yêu cầu hỗ trợ cụ thể không được vượt quá mức hỗ trợ đã được phê duyệt ở chính sách này.Thời gian thẩm định hồ sơ: trong vòng 45 (bốn
+  mươi lăm) ngày kể từ ngày bộ phận thẩm định nhận đủ hồ sơ yêu cầu thanh toán.
+  THANH TOÁN
+  Thời gian thanh toán được thực hiện trong vòng 15 (mười lăm) ngày kể từ ngày hồ sơ được Bộ phận thẩm định phê duyệt.
+  HIỆU LỰC ÁP DỤNG
+  Áp dụng kể từ ngày 15/02/2025 cho đến khi có thông báo mới.
+  CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure 61
 
 CA LÂM SÀNG 1
 DƯƠNG TÍNH GIẢ NIPT DO KHẢM KHU TRÚ BÁNH NHAU
@@ -1920,36 +1948,38 @@ bánh nhau được định nghĩa là bánh nhau có bất thường bộ NST, 
 không có bất thường này.
 Tế bào bình thường
 Tế bào bất thường
-| Cả thai và bánh nhau  | Bánh nhau bị khảm | Thai bị khảm |
-| --------------------- | ----------------- | ------------ |
-đều bị khảm
-CA LÂM SÀNG
-Thai phụ thực hiện xét nghiệm NIPT-triSure3 lúc thai 27 tuần.
-Kết quả: Phát hiện nguy cơ cao bất thường trisomy 13.
-KẾT QUẢ XÉT NGHIỆM
-| NHIỄM SẮC THỂ        | GIÁ TRỊ NGUY CƠ (Z-SCORE) | KẾT LUẬN             |
-| -------------------- | ------------------------- | -------------------- |
-| Tam bội NST 21 (T21) | -0.5                      | Nguy cơ thấp         |
-| Tam bội NST 18 (T18) | 0.86                      | Nguy cơ thấp         |
-| Tam bội NST 13 (T13) | 7.51                      | Nguy cơ cao lệch bội |
->10-
-)erocs-z( ơc yugn ịrt áiG 9-
-Lưu ý: 1. Đây là xét nghiệm sàng lọc có độ chính xác 99%. Do đó,
-7- vẫn có tỉ lệ nhỏ khả năng dương tính giả và âm tính giả xảy ra
-5- (nghĩa là thai bình thường nhưng xét nghiệm lại dương tính
-hoặc thai bị lệch bội NST nhưng xét nghiệm không phát hiện
-3-
-| 2-  |     | được). |
-| --- | --- | ------ |
-Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng thai nhi
-| 0-  |     | bị các bất thường khác trên NST. |
-| --- | --- | -------------------------------- |
--2-
-<-3-
-NST13 - NST18 - NST21 -
-|     | Nhiễm sắc thể | Ngày 19 tháng 02 năm 2019 |
-| --- | ------------- | ------------------------- |
-62 www.genesolutions.vn
+
+| Cả thai và bánh nhau                                          | Bánh nhau bị khảm         | Thai bị khảm         |
+| ------------------------------------------------------------- | ------------------------- | -------------------- |
+| đều bị khảm                                                   |
+| CA LÂM SÀNG                                                   |
+| Thai phụ thực hiện xét nghiệm NIPT-triSure3 lúc thai 27 tuần. |
+| Kết quả: Phát hiện nguy cơ cao bất thường trisomy 13.         |
+| KẾT QUẢ XÉT NGHIỆM                                            |
+| NHIỄM SẮC THỂ                                                 | GIÁ TRỊ NGUY CƠ (Z-SCORE) | KẾT LUẬN             |
+| --------------------                                          | ------------------------- | -------------------- |
+| Tam bội NST 21 (T21)                                          | -0.5                      | Nguy cơ thấp         |
+| Tam bội NST 18 (T18)                                          | 0.86                      | Nguy cơ thấp         |
+| Tam bội NST 13 (T13)                                          | 7.51                      | Nguy cơ cao lệch bội |
+
+> 10-
+> )erocs-z( ơc yugn ịrt áiG 9-
+> Lưu ý: 1. Đây là xét nghiệm sàng lọc có độ chính xác 99%. Do đó,
+> 7- vẫn có tỉ lệ nhỏ khả năng dương tính giả và âm tính giả xảy ra
+> 5- (nghĩa là thai bình thường nhưng xét nghiệm lại dương tính
+> hoặc thai bị lệch bội NST nhưng xét nghiệm không phát hiện
+> 3-
+> | 2- | | được). |
+> | --- | --- | ------ |
+> Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng thai nhi
+> | 0- | | bị các bất thường khác trên NST. |
+> | --- | --- | -------------------------------- |
+> -2-
+> <-3-
+> NST13 - NST18 - NST21 -
+> | | Nhiễm sắc thể | Ngày 19 tháng 02 năm 2019 |
+> | --- | ------------- | ------------------------- |
+> 62 www.genesolutions.vn
 
 CA LÂM SÀNG 1
 Sau khi được giải thích kết quả NIPT và khuyến cáo chẩn đoán xác định bằng thủ thuật
@@ -1994,48 +2024,49 @@ mang dòng tế bào có bộ NST bình thường và dòng tế bào mang bộ 
 dụ: lệch bội NST).
 Tế bào bình thường
 Tế bào bất thường
-| Cả thai và bánh nhau  | Bánh nhau bị khảm | Thai bị khảm |
-| --------------------- | ----------------- | ------------ |
-đều bị khảm
-CA LÂM SÀNG
-Thai phụ thực hiện NIPT tại thời điểm thai 11.5 tuần và có kết quả NIPT là âm tính.
-KẾT QUẢ XÉT NGHIỆM
-| NHIỄM SẮC THỂ    | GIÁ TRỊ NGUY CƠ (Z-SCORE) | KẾT LUẬN     |
-| ---------------- | ------------------------- | ------------ |
-| Tam NST 21 (T21) | -0.52                     | Nguy cơ thấp |
-| Tam NST 18 (T18) | -0.85                     | Nguy cơ thấp |
-Nguy cơ thấp
-| Tam NST 13 (T13)       | 0.02 |              |
-| ---------------------- | ---- | ------------ |
-| Lệch bội NST giới tính | -    | Nguy cơ thấp |
-Tam NST khác (1, 2, 3,
-4, 5, 6, 7, 8, 9, 10, 11,
-|     | -   | Nguy cơ thấp |
-| --- | --- | ------------ |
-12, 14, 15, 16, 17, 19,
-20, 22)
-)erocs-z( ơc yugn ịrt áiG >10-
-| 9-  | Lưu ý: 1. Xét nghiệm NIPT dựa trên ADN phóng thích từ |     |
-| --- | ----------------------------------------------------- | --- |
-bánh nhau, không phải từ thai. Đây là nguyên nhân chính
-7- gây dương tính giả (kết quả xét nghiệm dương tính nhưng
-| 5-  | thai bình thường) và âm tính giả (kết quả xét nghiệm âm |     |
-| --- | ------------------------------------------------------- | --- |
-tính nhưng thai bị bệnh) nếu di truyền của bánh nhau và
-3- thai khác biệt. Độ nhạy của xét nghiệm cho tam NST 21, 18
-2- và 13 là 99%, nghĩa là trong 100 ca bệnh sẽ có 1 ca bị bỏ
-sót.
-| 0-  | 2. Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng |     |
-| --- | ------------------------------------------------------ | --- |
--2- thai nhi bị các bất thường khác trên NST. Vì vậy, thai phụ
-được khuyến cáo tiếp tục khám thai định kì ngay cả khi kết
-| <-3- |     | quả NIPT âm tính. |
-| ---- | --- | ----------------- |
-NST13 - NST18 - NST21 -
-|     | Nhiễm sắc thể | Ngày 22 tháng 11 năm 2019 |
-| --- | ------------- | ------------------------- |
-65
-CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure
+
+| Cả thai và bánh nhau                                                                | Bánh nhau bị khảm                                       | Thai bị khảm              |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------- |
+| đều bị khảm                                                                         |
+| CA LÂM SÀNG                                                                         |
+| Thai phụ thực hiện NIPT tại thời điểm thai 11.5 tuần và có kết quả NIPT là âm tính. |
+| KẾT QUẢ XÉT NGHIỆM                                                                  |
+| NHIỄM SẮC THỂ                                                                       | GIÁ TRỊ NGUY CƠ (Z-SCORE)                               | KẾT LUẬN                  |
+| ----------------                                                                    | -------------------------                               | ------------              |
+| Tam NST 21 (T21)                                                                    | -0.52                                                   | Nguy cơ thấp              |
+| Tam NST 18 (T18)                                                                    | -0.85                                                   | Nguy cơ thấp              |
+| Nguy cơ thấp                                                                        |
+| Tam NST 13 (T13)                                                                    | 0.02                                                    |                           |
+| ----------------------                                                              | ----                                                    | ------------              |
+| Lệch bội NST giới tính                                                              | -                                                       | Nguy cơ thấp              |
+| Tam NST khác (1, 2, 3,                                                              |
+| 4, 5, 6, 7, 8, 9, 10, 11,                                                           |
+|                                                                                     | -                                                       | Nguy cơ thấp              |
+| ---                                                                                 | ---                                                     | ------------              |
+| 12, 14, 15, 16, 17, 19,                                                             |
+| 20, 22)                                                                             |
+| )erocs-z( ơc yugn ịrt áiG >10-                                                      |
+| 9-                                                                                  | Lưu ý: 1. Xét nghiệm NIPT dựa trên ADN phóng thích từ   |                           |
+| ---                                                                                 | -----------------------------------------------------   | ---                       |
+| bánh nhau, không phải từ thai. Đây là nguyên nhân chính                             |
+| 7- gây dương tính giả (kết quả xét nghiệm dương tính nhưng                          |
+| 5-                                                                                  | thai bình thường) và âm tính giả (kết quả xét nghiệm âm |                           |
+| ---                                                                                 | ------------------------------------------------------- | ---                       |
+| tính nhưng thai bị bệnh) nếu di truyền của bánh nhau và                             |
+| 3- thai khác biệt. Độ nhạy của xét nghiệm cho tam NST 21, 18                        |
+| 2- và 13 là 99%, nghĩa là trong 100 ca bệnh sẽ có 1 ca bị bỏ                        |
+| sót.                                                                                |
+| 0-                                                                                  | 2. Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng  |                           |
+| ---                                                                                 | ------------------------------------------------------  | ---                       |
+| -2- thai nhi bị các bất thường khác trên NST. Vì vậy, thai phụ                      |
+| được khuyến cáo tiếp tục khám thai định kì ngay cả khi kết                          |
+| <-3-                                                                                |                                                         | quả NIPT âm tính.         |
+| ----                                                                                | ---                                                     | -----------------         |
+| NST13 - NST18 - NST21 -                                                             |
+|                                                                                     | Nhiễm sắc thể                                           | Ngày 22 tháng 11 năm 2019 |
+| ---                                                                                 | -------------                                           | ------------------------- |
+| 65                                                                                  |
+| CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure                                  |
 
 CA LÂM SÀNG 2
 Qua kết quả siêu âm tại tuần thai 22, thai nhi xuất hiện các bất thường: động mạch
@@ -2043,31 +2074,33 @@ phổi nhỏ, bụng thai nhi nhiều dịch.
 Thai phụ được chỉ định thực hiện chọc ối để làm xét nghiệm karyotype và kết quả thể hiện
 như sau:
 Kết quả: Thai khảm 2 dòng tế bào.
+
 - Dòng tế bào bình thường chiếm 70.6%
 - Dòng tế bào mang tam nhiễm sắc thể số 7, số 14 và số 20 chiếm 29,4%.
-KẾT QUẢ NGOẠI KIỂM
-Không phát hiện bất thường số lượng 23 cặp NST (tương đồng với kết quả
-triSure-NIPT).
-KẾT QUẢ SÀNG LỌC CHẠY TRÊN HỆ THỐNG ION TORRENT
-Nhiễm sắc thể KẾT QUẢ CHẨN ĐOÁN KẾT LUẬN
-Số 13 2 nhiễm sắc thể Bình thường*
-Số 18 2 nhiễm sắc thể Bình thường*
-Số 21 2 nhiễm sắc thể Bình thường*
-Giới tính 2 nhiễm sắc thể Bình thường*
-C th á ư c ờ N ng S T kh á Tất cả đều 2 NST Bình thường*
-Độ chính xác là 99%
-PHƯƠNG Kỹ thuật NIPT chỉ là kỹ thuật sàng lọc di truyền qua máu mẹ độ
-PHÁP: chính xác 99%, không phải kỹ thuật chẩn đoán nên vẫn có tỷ lệ
-nhỏ dương tính hay âm tính giả.
-HOTLINE: 936 455 025
-Lưu ý 1. NIPT chỉ là xét nghiệm sàng lọc và không dùng trong chẩn đoán.
+  KẾT QUẢ NGOẠI KIỂM
+  Không phát hiện bất thường số lượng 23 cặp NST (tương đồng với kết quả
+  triSure-NIPT).
+  KẾT QUẢ SÀNG LỌC CHẠY TRÊN HỆ THỐNG ION TORRENT
+  Nhiễm sắc thể KẾT QUẢ CHẨN ĐOÁN KẾT LUẬN
+  Số 13 2 nhiễm sắc thể Bình thường*
+  Số 18 2 nhiễm sắc thể Bình thường*
+  Số 21 2 nhiễm sắc thể Bình thường*
+  Giới tính 2 nhiễm sắc thể Bình thường*
+  C th á ư c ờ N ng S T kh á Tất cả đều 2 NST Bình thường*
+  Độ chính xác là 99%
+  PHƯƠNG Kỹ thuật NIPT chỉ là kỹ thuật sàng lọc di truyền qua máu mẹ độ
+  PHÁP: chính xác 99%, không phải kỹ thuật chẩn đoán nên vẫn có tỷ lệ
+  nhỏ dương tính hay âm tính giả.
+  HOTLINE: 936 455 025
+  Lưu ý 1. NIPT chỉ là xét nghiệm sàng lọc và không dùng trong chẩn đoán.
+
 2. Low Risks là nguy cơ thấp - High Risks là nguy cơ cao.
 3. Kết quả “nguy cơ cao” hay “bất thường” cần chẩn đoán xác định bằng các
-Phương pháp xét nghiệm trực tiếp trên dịch ối như FCR hay FISH
-Các nguyên nhân có thể gây ra kết quả không chính xác bao gồm thể khảm, khảm nhau thai,
-nồng độ DNA của thai nhi trong máu mẹ thấp, tuổi thai dưới 10 tuổi hoặc song thai tiêu biến.
-Hà Nội, ngày 10 tháng 03 năm 2020
-66 www.genesolutions.vn
+   Phương pháp xét nghiệm trực tiếp trên dịch ối như FCR hay FISH
+   Các nguyên nhân có thể gây ra kết quả không chính xác bao gồm thể khảm, khảm nhau thai,
+   nồng độ DNA của thai nhi trong máu mẹ thấp, tuổi thai dưới 10 tuổi hoặc song thai tiêu biến.
+   Hà Nội, ngày 10 tháng 03 năm 2020
+   66 www.genesolutions.vn
 
 CA LÂM SÀNG 2
 KẾT LUẬN
@@ -2091,43 +2124,45 @@ Dị tật bẩm sinh là bất kỳ sự bất thường về cấu trúc hoặ
 gây ra bởi sự bất thường di truyền và / hoặc môi trường, nhưng phần lớn là chưa rõ
 nguyên nhân.
 Những nguyên nhân do di truyền bao gồm bất thường số lượng nhiễm sắc thể (thừa
-hoặc thiếu NST), cấu trúc nhiễm sắc thể  (vi lặp đoạn, vi mất đoạn, đảo đoạn, chuyển
+hoặc thiếu NST), cấu trúc nhiễm sắc thể (vi lặp đoạn, vi mất đoạn, đảo đoạn, chuyển
 đoạn NST,…) và đột biến gen.
 CA LÂM SÀNG
 Thai phụ thực hiện NIPT tại thời điểm thai 13 tuần và có kết quả NIPT là âm tính.
 KẾT QUẢ XÉT NGHIỆM
-| NHIỄM SẮC THỂ          | GIÁ TRỊ NGUY CƠ (Z-SCORE) | KẾT LUẬN     |
-| ---------------------- | ------------------------- | ------------ |
-| Tam NST 21 (T21)       | -1.24                     | Nguy cơ thấp |
-| Tam NST 18 (T18)       | -0.25                     | Nguy cơ thấp |
-| Tam NST 13 (T13)       | -0.69                     | Nguy cơ thấp |
-| Lệch bội NST giới tính | -                         | Nguy cơ thấp |
-Tam NST khác (1, 2, 3,
-4, 5, 6, 7, 8, 9, 10, 11,
-| 12, 14, 15, 16, 17, 19, | -   | Nguy cơ thấp |
-| ----------------------- | --- | ------------ |
-20, 22)
->10-
-)erocs-z( ơc yugn ịrt áiG Lưu ý: 1. Xét nghiệm NIPT dựa trên ADN phóng thích từ
-| 9-  | bánh nhau, không phải từ thai. Đây là nguyên nhân chính |     |
-| --- | ------------------------------------------------------- | --- |
-gây dương tính giả (kết quả xét nghiệm dương tính nhưng
-| 7-  | thai bình thường) và âm tính giả (kết quả xét nghiệm âm |     |
-| --- | ------------------------------------------------------- | --- |
-| 5-  | tính nhưng thai bị bệnh) nếu di truyền của bánh nhau và |     |
-thai khác biệt. Độ nhạy của xét nghiệm cho tam NST 21, 18
-3- và 13 là 99%, nghĩa là trong 100 ca bệnh sẽ có 1 ca bị bỏ
-| 2-  |                                                        | sót. |
-| --- | ------------------------------------------------------ | ---- |
-| 0-  | 2. Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng |      |
-thai nhi bị các bất thường khác trên NST. Vì vậy, thai phụ
--2- được khuyến cáo tiếp tục khám thai định kì ngay cả khi kết
-quả NIPT âm tính.
-<-3-
-| NST13 - | NST18 - NST21 - |                           |
-| ------- | --------------- | ------------------------- |
-|         | Nhiễm sắc thể   | Ngày 16 tháng 12 năm 2019 |
-68 www.genesolutions.vn
+
+| NHIỄM SẮC THỂ             | GIÁ TRỊ NGUY CƠ (Z-SCORE) | KẾT LUẬN     |
+| ------------------------- | ------------------------- | ------------ |
+| Tam NST 21 (T21)          | -1.24                     | Nguy cơ thấp |
+| Tam NST 18 (T18)          | -0.25                     | Nguy cơ thấp |
+| Tam NST 13 (T13)          | -0.69                     | Nguy cơ thấp |
+| Lệch bội NST giới tính    | -                         | Nguy cơ thấp |
+| Tam NST khác (1, 2, 3,    |
+| 4, 5, 6, 7, 8, 9, 10, 11, |
+| 12, 14, 15, 16, 17, 19,   | -                         | Nguy cơ thấp |
+| -----------------------   | ---                       | ------------ |
+| 20, 22)                   |
+
+> 10-
+> )erocs-z( ơc yugn ịrt áiG Lưu ý: 1. Xét nghiệm NIPT dựa trên ADN phóng thích từ
+> | 9- | bánh nhau, không phải từ thai. Đây là nguyên nhân chính | |
+> | --- | ------------------------------------------------------- | --- |
+> gây dương tính giả (kết quả xét nghiệm dương tính nhưng
+> | 7- | thai bình thường) và âm tính giả (kết quả xét nghiệm âm | |
+> | --- | ------------------------------------------------------- | --- |
+> | 5- | tính nhưng thai bị bệnh) nếu di truyền của bánh nhau và | |
+> thai khác biệt. Độ nhạy của xét nghiệm cho tam NST 21, 18
+> 3- và 13 là 99%, nghĩa là trong 100 ca bệnh sẽ có 1 ca bị bỏ
+> | 2- | | sót. |
+> | --- | ------------------------------------------------------ | ---- |
+> | 0- | 2. Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng | |
+> thai nhi bị các bất thường khác trên NST. Vì vậy, thai phụ
+> -2- được khuyến cáo tiếp tục khám thai định kì ngay cả khi kết
+> quả NIPT âm tính.
+> <-3-
+> | NST13 - | NST18 - NST21 - | |
+> | ------- | --------------- | ------------------------- |
+> | | Nhiễm sắc thể | Ngày 16 tháng 12 năm 2019 |
+> 68 www.genesolutions.vn
 
 CA LÂM SÀNG 3
 Qua kết quả siêu âm tại thời điểm 23 tuần 5 ngày, thai nhi chậm tăng trưởng trong tử
@@ -2159,41 +2194,43 @@ Thai phụ thực hiện NIPT tại thời điểm thai 11 tuần.
 Sau phân tích mẫu, nghi ngờ thai phụ có mang 3 nhiễm sắc thể X (trisomy X) làm ảnh
 hưởng đến tín hiệu NST của con.
 KẾT QUẢ XÉT NGHIỆM
-| NHIỄM SẮC THỂ    | GIÁ TRỊ NGUY CƠ (Z-SCORE) | KẾT LUẬN     |
-| ---------------- | ------------------------- | ------------ |
-| Tam NST 21 (T21) | -0.83                     | Nguy cơ thấp |
-| Tam NST 18 (T18) | -0.06                     | Nguy cơ thấp |
-| Tam NST 13 (T13) | -1.22                     | Nguy cơ thấp |
-Không thể phát hiện bất thường của thai
-| Lệch bội NST giới tính | -   |     |
-| ---------------------- | --- | --- |
-do mẹ bị trisomy X
-Tam NST khác (1, 2, 3,
-| 4, 5, 6, 7, 8, 9, 10, 11, | -   | Nguy cơ thấp |
-| ------------------------- | --- | ------------ |
-12, 14, 15, 16, 17, 19,
-20, 22)
->10-
-)erocs-z( ơc yugn ịrt áiG Lưu ý: 1. Xét nghiệm NIPT dựa trên ADN phóng thích từ
-| 9-  | bánh nhau, không phải từ thai. Đây là nguyên nhân chính |     |
-| --- | ------------------------------------------------------- | --- |
-| 7-  | gây dương tính giả (kết quả xét nghiệm dương tính nhưng |     |
-thai bình thường) và âm tính giả (kết quả xét nghiệm âm
-| 5-  | tính nhưng thai bị bệnh) nếu di truyền của bánh nhau và |     |
-| --- | ------------------------------------------------------- | --- |
-thai khác biệt. Độ nhạy của xét nghiệm cho tam NST 21, 18
-3- và 13 là 99%, nghĩa là trong 100 ca bệnh sẽ có 1 ca bị bỏ
-| 2-  |                                                        | sót. |
-| --- | ------------------------------------------------------ | ---- |
-| 0-  | 2. Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng |      |
-thai nhi bị các bất thường khác trên NST. Vì vậy, thai phụ
--2- được khuyến cáo tiếp tục khám thai định kì ngay cả khi kết
-| <-3-  |               | quả NIPT âm tính.         |
-| ----- | ------------- | ------------------------- |
-| -     | - -           |                           |
-| NST13 | NST18 NST21   |                           |
-|       | Nhiễm sắc thể | Ngày 04 tháng 03 năm 2020 |
-70 www.genesolutions.vn
+
+| NHIỄM SẮC THỂ                           | GIÁ TRỊ NGUY CƠ (Z-SCORE) | KẾT LUẬN     |
+| --------------------------------------- | ------------------------- | ------------ |
+| Tam NST 21 (T21)                        | -0.83                     | Nguy cơ thấp |
+| Tam NST 18 (T18)                        | -0.06                     | Nguy cơ thấp |
+| Tam NST 13 (T13)                        | -1.22                     | Nguy cơ thấp |
+| Không thể phát hiện bất thường của thai |
+| Lệch bội NST giới tính                  | -                         |              |
+| ----------------------                  | ---                       | ---          |
+| do mẹ bị trisomy X                      |
+| Tam NST khác (1, 2, 3,                  |
+| 4, 5, 6, 7, 8, 9, 10, 11,               | -                         | Nguy cơ thấp |
+| -------------------------               | ---                       | ------------ |
+| 12, 14, 15, 16, 17, 19,                 |
+| 20, 22)                                 |
+
+> 10-
+> )erocs-z( ơc yugn ịrt áiG Lưu ý: 1. Xét nghiệm NIPT dựa trên ADN phóng thích từ
+> | 9- | bánh nhau, không phải từ thai. Đây là nguyên nhân chính | |
+> | --- | ------------------------------------------------------- | --- |
+> | 7- | gây dương tính giả (kết quả xét nghiệm dương tính nhưng | |
+> thai bình thường) và âm tính giả (kết quả xét nghiệm âm
+> | 5- | tính nhưng thai bị bệnh) nếu di truyền của bánh nhau và | |
+> | --- | ------------------------------------------------------- | --- |
+> thai khác biệt. Độ nhạy của xét nghiệm cho tam NST 21, 18
+> 3- và 13 là 99%, nghĩa là trong 100 ca bệnh sẽ có 1 ca bị bỏ
+> | 2- | | sót. |
+> | --- | ------------------------------------------------------ | ---- |
+> | 0- | 2. Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng | |
+> thai nhi bị các bất thường khác trên NST. Vì vậy, thai phụ
+> -2- được khuyến cáo tiếp tục khám thai định kì ngay cả khi kết
+> | <-3- | | quả NIPT âm tính. |
+> | ----- | ------------- | ------------------------- |
+> | - | - - | |
+> | NST13 | NST18 NST21 | |
+> | | Nhiễm sắc thể | Ngày 04 tháng 03 năm 2020 |
+> 70 www.genesolutions.vn
 
 CA LÂM SÀNG 4
 Do đó, mẫu máu của mẹ được thực hiện xét nghiệm FISH để tìm nguyên nhân. Và kết
@@ -2223,36 +2260,40 @@ phải các hội chứng này rất ít nên không có nhiều tài liệu th�
 
 Turkey
 China
-| India |     | Hong Kong |     |
-| ----- | --- | --------- | --- |
-Taiwan
-Thailand
-Philippines
-Vietnam
-Malaysia
-Singapore
-Indonesia
-Australia
-|     | 50.000+ |     | 5.000+ |
-| --- | ------- | --- | ------ |
-3.200.000+
-| Xét nghiệm  | Xét nghiệm                  |     | Đối tác               |
-| ----------- | --------------------------- | --- | --------------------- |
-| gen         | sàng lọc ung thư bằng ctDNA |     | Bệnh viện, Phòng khám |
-| 70.000+     | 2.700.000+                  |     |                       |
-| Xét nghiệm  | Xét nghiệm gen              |     |                       |
-| gen ung thư | dành cho thai phụ Việt Nam  |     |                       |
-CÔNG TY TNHH GENE SOLUTIONS LAB
-Tư vấn miễn phí
-Thời gian làm việc: Thứ Hai đến thứ Sáu: 8h00 - 17h00
+
+| India                                                 |                             | Hong Kong |                       |
+| ----------------------------------------------------- | --------------------------- | --------- | --------------------- |
+| Taiwan                                                |
+| Thailand                                              |
+| Philippines                                           |
+| Vietnam                                               |
+| Malaysia                                              |
+| Singapore                                             |
+| Indonesia                                             |
+| Australia                                             |
+|                                                       | 50.000+                     |           | 5.000+                |
+| ---                                                   | -------                     | ---       | ------                |
+| 3.200.000+                                            |
+| Xét nghiệm                                            | Xét nghiệm                  |           | Đối tác               |
+| -----------                                           | --------------------------- | ---       | --------------------- |
+| gen                                                   | sàng lọc ung thư bằng ctDNA |           | Bệnh viện, Phòng khám |
+| 70.000+                                               | 2.700.000+                  |           |                       |
+| Xét nghiệm                                            | Xét nghiệm gen              |           |                       |
+| gen ung thư                                           | dành cho thai phụ Việt Nam  |           |                       |
+| CÔNG TY TNHH GENE SOLUTIONS LAB                       |
+| Tư vấn miễn phí                                       |
+| Thời gian làm việc: Thứ Hai đến thứ Sáu: 8h00 - 17h00 |
+
                                    Thứ Bảy: 8h00 - 12h00
+
 TP.HCM: 186-188 Nguyễn Duy Dương, Phường Vườn Lài
-                 110 Nguyễn Chí Thanh, Phường Vườn Lài
+110 Nguyễn Chí Thanh, Phường Vườn Lài
 HN: Tầng 5, tòa nhà NHS Center, số 214 Hào Nam, Phường Ô Chợ Dừa
-  genesolutions.vn support@genesolutions.vn fb/giaiphapgen Gene Solutions
+genesolutions.vn support@genesolutions.vn fb/giaiphapgen Gene Solutions
 Scan the QR code:
-| GENESOLUTIONS  | Page triSure NIPT                        | Group triSure |     |
-| -------------- | ---------------------------------------- | ------------- | --- |
-| Gene Solutions | Fanpage  Group Hội các mẹ bầu làm        |               |     |
-|                | triSure NIPT NIPT triSure-Gene Solutions |               |     |
-Lưu hành nội bộ_VN.BR8810020326
+
+| GENESOLUTIONS                   | Page triSure NIPT                        | Group triSure |     |
+| ------------------------------- | ---------------------------------------- | ------------- | --- |
+| Gene Solutions                  | Fanpage Group Hội các mẹ bầu làm         |               |     |
+|                                 | triSure NIPT NIPT triSure-Gene Solutions |               |     |
+| Lưu hành nội bộ_VN.BR8810020326 |
