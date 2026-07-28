@@ -1689,7 +1689,7 @@ Sàng lọc gen bệnh thể ẩn
 --- Khám thai định kỳ
 (bệnh di truyền lặn)
 
-- +
+- -
   -Kết quả dương tính
 - (+) thai phụ mang đột biến gây bệnh
   Chồng (-) thai phụ không mang đột biến gây bệnh
@@ -1792,25 +1792,26 @@ trường hợp sau:
 > CÁC LOẠI KHẢM NHIỄM SẮC THỂ
 > Tế bào bình thường
 > Tế bào bất thường
-> | Cả thai và bánh nhau | | Bánh nhau bị khảm | | | Thai bị khảm | |
-> | --------------------- | --- | ----------------- | --- | --- | ------------ | --- |
-> đều bị khảm
-> Thể khảm khu trú
-> | Khảm toàn bộ | | | | | Thể khảm ở thai | |
-> | ------------ | --- | --- | --- | --- | --------------- | --- |
-> bánh nhau
-> Nằm ngoài phạm vi Sự xuất hiện hai dòng tế Sự xuất hiện hai dòng tế
-> khảo sát của NIPT. bào có nhiễm sắc thể khác bào có nhiễm sắc thể khác
-> | | | nhau trở lên | ở nhau | thai, nhau trở lên ở bào thai, | | |
-> | --- | --- | ----------------------- | -------- | -------------------------------- | --- | --- |
-> | | | không có ở bào thai. | | không có ở nhau thai. | | |
-> | | | Có thể dẫn đến kết quả | | Có thể dẫn đến kết quả | | |
-> | | | NIPT dương tính giả. | | NIPT âm tính giả. | | |
-> Grati FR. J clin Med.2014;3(3):809-837.
-> Van Opstal D, et al. PLoS One. 2016;11 (1):e0146794.
-> Kalousek DK. Pediatr Pathol. 1900;10(1-2):69-77.
-> 59
-> CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure
+>
+> | Cả thai và bánh nhau                                                   |     | Bánh nhau bị khảm       |          |                                  | Thai bị khảm    |     |
+> | ---------------------------------------------------------------------- | --- | ----------------------- | -------- | -------------------------------- | --------------- | --- |
+> | đều bị khảm                                                            |
+> | Thể khảm khu trú                                                       |
+> | Khảm toàn bộ                                                           |     |                         |          |                                  | Thể khảm ở thai |     |
+> | ------------                                                           | --- | ---                     | ---      | ---                              | --------------- | --- |
+> | bánh nhau                                                              |
+> | Nằm ngoài phạm vi Sự xuất hiện hai dòng tế Sự xuất hiện hai dòng tế    |
+> | khảo sát của NIPT. bào có nhiễm sắc thể khác bào có nhiễm sắc thể khác |
+> |                                                                        |     | nhau trở lên            | ở nhau   | thai, nhau trở lên ở bào thai,   |                 |     |
+> | ---                                                                    | --- | ----------------------- | -------- | -------------------------------- | ---             | --- |
+> |                                                                        |     | không có ở bào thai.    |          | không có ở nhau thai.            |                 |     |
+> |                                                                        |     | Có thể dẫn đến kết quả  |          | Có thể dẫn đến kết quả           |                 |     |
+> |                                                                        |     | NIPT dương tính giả.    |          | NIPT âm tính giả.                |                 |     |
+> | Grati FR. J clin Med.2014;3(3):809-837.                                |
+> | Van Opstal D, et al. PLoS One. 2016;11 (1):e0146794.                   |
+> | Kalousek DK. Pediatr Pathol. 1900;10(1-2):69-77.                       |
+> | 59                                                                     |
+> | CẨM NANG SÀNG LỌC TRƯỚC SINH KHÔNG XÂM LẤN triSure                     |
 
 CHÍNH SÁCH HỖ TRỢ
 Gene Solutions (GS) cung cấp các chương trình hỗ trợ khi thai phụ thực hiện xét nghiệm trước sinh không xâm lấn (NIPT) triSureFirst, triSure3, triSure Thalass, triSure9.5 (NIPT9.5), triSure, triSure
@@ -1969,17 +1970,18 @@ Tế bào bất thường
 > 5- (nghĩa là thai bình thường nhưng xét nghiệm lại dương tính
 > hoặc thai bị lệch bội NST nhưng xét nghiệm không phát hiện
 > 3-
-> | 2- | | được). |
-> | --- | --- | ------ |
-> Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng thai nhi
-> | 0- | | bị các bất thường khác trên NST. |
-> | --- | --- | -------------------------------- |
-> -2-
-> <-3-
-> NST13 - NST18 - NST21 -
-> | | Nhiễm sắc thể | Ngày 19 tháng 02 năm 2019 |
-> | --- | ------------- | ------------------------- |
-> 62 www.genesolutions.vn
+>
+> | 2-                                                           |               | được).                           |
+> | ------------------------------------------------------------ | ------------- | -------------------------------- |
+> | Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng thai nhi |
+> | 0-                                                           |               | bị các bất thường khác trên NST. |
+> | ---                                                          | ---           | -------------------------------- |
+> | -2-                                                          |
+> | <-3-                                                         |
+> | NST13 - NST18 - NST21 -                                      |
+> |                                                              | Nhiễm sắc thể | Ngày 19 tháng 02 năm 2019        |
+> | ---                                                          | ------------- | -------------------------        |
+> | 62 www.genesolutions.vn                                      |
 
 CA LÂM SÀNG 1
 Sau khi được giải thích kết quả NIPT và khuyến cáo chẩn đoán xác định bằng thủ thuật
@@ -2144,25 +2146,26 @@ KẾT QUẢ XÉT NGHIỆM
 
 > 10-
 > )erocs-z( ơc yugn ịrt áiG Lưu ý: 1. Xét nghiệm NIPT dựa trên ADN phóng thích từ
-> | 9- | bánh nhau, không phải từ thai. Đây là nguyên nhân chính | |
-> | --- | ------------------------------------------------------- | --- |
-> gây dương tính giả (kết quả xét nghiệm dương tính nhưng
-> | 7- | thai bình thường) và âm tính giả (kết quả xét nghiệm âm | |
-> | --- | ------------------------------------------------------- | --- |
-> | 5- | tính nhưng thai bị bệnh) nếu di truyền của bánh nhau và | |
-> thai khác biệt. Độ nhạy của xét nghiệm cho tam NST 21, 18
-> 3- và 13 là 99%, nghĩa là trong 100 ca bệnh sẽ có 1 ca bị bỏ
-> | 2- | | sót. |
-> | --- | ------------------------------------------------------ | ---- |
-> | 0- | 2. Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng | |
-> thai nhi bị các bất thường khác trên NST. Vì vậy, thai phụ
-> -2- được khuyến cáo tiếp tục khám thai định kì ngay cả khi kết
-> quả NIPT âm tính.
-> <-3-
-> | NST13 - | NST18 - NST21 - | |
-> | ------- | --------------- | ------------------------- |
-> | | Nhiễm sắc thể | Ngày 16 tháng 12 năm 2019 |
-> 68 www.genesolutions.vn
+>
+> | 9-                                                             | bánh nhau, không phải từ thai. Đây là nguyên nhân chính |                           |
+> | -------------------------------------------------------------- | ------------------------------------------------------- | ------------------------- |
+> | gây dương tính giả (kết quả xét nghiệm dương tính nhưng        |
+> | 7-                                                             | thai bình thường) và âm tính giả (kết quả xét nghiệm âm |                           |
+> | ---                                                            | ------------------------------------------------------- | ---                       |
+> | 5-                                                             | tính nhưng thai bị bệnh) nếu di truyền của bánh nhau và |                           |
+> | thai khác biệt. Độ nhạy của xét nghiệm cho tam NST 21, 18      |
+> | 3- và 13 là 99%, nghĩa là trong 100 ca bệnh sẽ có 1 ca bị bỏ   |
+> | 2-                                                             |                                                         | sót.                      |
+> | ---                                                            | ------------------------------------------------------  | ----                      |
+> | 0-                                                             | 2. Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng  |                           |
+> | thai nhi bị các bất thường khác trên NST. Vì vậy, thai phụ     |
+> | -2- được khuyến cáo tiếp tục khám thai định kì ngay cả khi kết |
+> | quả NIPT âm tính.                                              |
+> | <-3-                                                           |
+> | NST13 -                                                        | NST18 - NST21 -                                         |                           |
+> | -------                                                        | ---------------                                         | ------------------------- |
+> |                                                                | Nhiễm sắc thể                                           | Ngày 16 tháng 12 năm 2019 |
+> | 68 www.genesolutions.vn                                        |
 
 CA LÂM SÀNG 3
 Qua kết quả siêu âm tại thời điểm 23 tuần 5 ngày, thai nhi chậm tăng trưởng trong tử
@@ -2212,25 +2215,26 @@ KẾT QUẢ XÉT NGHIỆM
 
 > 10-
 > )erocs-z( ơc yugn ịrt áiG Lưu ý: 1. Xét nghiệm NIPT dựa trên ADN phóng thích từ
-> | 9- | bánh nhau, không phải từ thai. Đây là nguyên nhân chính | |
-> | --- | ------------------------------------------------------- | --- |
-> | 7- | gây dương tính giả (kết quả xét nghiệm dương tính nhưng | |
-> thai bình thường) và âm tính giả (kết quả xét nghiệm âm
-> | 5- | tính nhưng thai bị bệnh) nếu di truyền của bánh nhau và | |
-> | --- | ------------------------------------------------------- | --- |
-> thai khác biệt. Độ nhạy của xét nghiệm cho tam NST 21, 18
-> 3- và 13 là 99%, nghĩa là trong 100 ca bệnh sẽ có 1 ca bị bỏ
-> | 2- | | sót. |
-> | --- | ------------------------------------------------------ | ---- |
-> | 0- | 2. Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng | |
-> thai nhi bị các bất thường khác trên NST. Vì vậy, thai phụ
-> -2- được khuyến cáo tiếp tục khám thai định kì ngay cả khi kết
-> | <-3- | | quả NIPT âm tính. |
-> | ----- | ------------- | ------------------------- |
-> | - | - - | |
-> | NST13 | NST18 NST21 | |
-> | | Nhiễm sắc thể | Ngày 04 tháng 03 năm 2020 |
-> 70 www.genesolutions.vn
+>
+> | 9-                                                             | bánh nhau, không phải từ thai. Đây là nguyên nhân chính |                           |
+> | -------------------------------------------------------------- | ------------------------------------------------------- | ------------------------- |
+> | 7-                                                             | gây dương tính giả (kết quả xét nghiệm dương tính nhưng |                           |
+> | thai bình thường) và âm tính giả (kết quả xét nghiệm âm        |
+> | 5-                                                             | tính nhưng thai bị bệnh) nếu di truyền của bánh nhau và |                           |
+> | ---                                                            | ------------------------------------------------------- | ---                       |
+> | thai khác biệt. Độ nhạy của xét nghiệm cho tam NST 21, 18      |
+> | 3- và 13 là 99%, nghĩa là trong 100 ca bệnh sẽ có 1 ca bị bỏ   |
+> | 2-                                                             |                                                         | sót.                      |
+> | ---                                                            | ------------------------------------------------------  | ----                      |
+> | 0-                                                             | 2. Xét nghiệm âm tính không hoàn toàn loại bỏ khả năng  |                           |
+> | thai nhi bị các bất thường khác trên NST. Vì vậy, thai phụ     |
+> | -2- được khuyến cáo tiếp tục khám thai định kì ngay cả khi kết |
+> | <-3-                                                           |                                                         | quả NIPT âm tính.         |
+> | -----                                                          | -------------                                           | ------------------------- |
+> | -                                                              | - -                                                     |                           |
+> | NST13                                                          | NST18 NST21                                             |                           |
+> |                                                                | Nhiễm sắc thể                                           | Ngày 04 tháng 03 năm 2020 |
+> | 70 www.genesolutions.vn                                        |
 
 CA LÂM SÀNG 4
 Do đó, mẫu máu của mẹ được thực hiện xét nghiệm FISH để tìm nguyên nhân. Và kết
