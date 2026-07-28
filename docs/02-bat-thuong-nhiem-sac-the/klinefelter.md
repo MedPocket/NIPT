@@ -10,15 +10,16 @@ description: "Sàng lọc bất thường số lượng nhiễm sắc thể gi�
 
 ### Đặc điểm thường gặp:
 
-* Tầm vóc cao, vóc dáng hơi nữ tính, loãng xương.
-* Giảm khả năng hoặc có xu hướng mất lông ngực, tăng trưởng râu kém.
-* Tuyến vú phát triển (vú to ở nam giới).
-* Kiểu lông mu phân bố kiểu nữ.
-* Tinh hoàn kém phát triển (teo tinh hoàn), giảm nồng độ testosterone, dẫn đến vô sinh ở nam giới.
-* IQ có thể suy giảm nhẹ, gặp khó khăn khi học tập, nói và chậm phát triển ngôn ngữ.
+- Tầm vóc cao, vóc dáng hơi nữ tính, loãng xương.
+- Giảm khả năng hoặc có xu hướng mất lông ngực, tăng trưởng râu kém.
+- Tuyến vú phát triển (vú to ở nam giới).
+- Kiểu lông mu phân bố kiểu nữ.
+- Tinh hoàn kém phát triển (teo tinh hoàn), giảm nồng độ testosterone, dẫn đến vô sinh ở nam giới.
+- IQ có thể suy giảm nhẹ, gặp khó khăn khi học tập, nói và chậm phát triển ngôn ngữ.
 
 ---
 
 ### Tài liệu tham khảo
-* *Jones KL, Jones MC, del Campo M. Smith’s Recognizable Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier Saunders; 2013.*
-* *Your guide to understanding genetic conditions: Klinefelter Syndrome. Genetics Home Reference.*
+
+- _Jones KL, Jones MC, del Campo M. Smith’s Recognizable Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier Saunders; 2013._
+- _Your guide to understanding genetic conditions: Klinefelter Syndrome. Genetics Home Reference._

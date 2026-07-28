@@ -10,17 +10,18 @@ description: "Sàng lọc Thể đơn nhiễm X (Monosomy X - XO), bất thườ
 
 ### Đặc điểm thường gặp:
 
-* Chiều cao thấp rõ rệt.
-* Rối loạn chức năng buồng trứng dẫn đến mất kinh nguyệt tự nhiên và vô sinh. Buồng trứng dạng sơ khai trong tuyến sinh dục, cơ quan sinh dục phát triển kém.
-* Các chấm nâu trên da.
-* Dị tật về cấu trúc tim (như hẹp eo động mạch chủ, van động mạch chủ hai lá).
-* Ngực hình khiên, núm vú khoảng cách rộng.
-* Da cổ gấp nếp (cổ bành), tóc mọc thấp ở phía sau.
-* Khuỷu tay dị dạng (vẹo ra ngoài), đốt ngón tay thứ IV ngắn, móng tay nhỏ.
+- Chiều cao thấp rõ rệt.
+- Rối loạn chức năng buồng trứng dẫn đến mất kinh nguyệt tự nhiên và vô sinh. Buồng trứng dạng sơ khai trong tuyến sinh dục, cơ quan sinh dục phát triển kém.
+- Các chấm nâu trên da.
+- Dị tật về cấu trúc tim (như hẹp eo động mạch chủ, van động mạch chủ hai lá).
+- Ngực hình khiên, núm vú khoảng cách rộng.
+- Da cổ gấp nếp (cổ bành), tóc mọc thấp ở phía sau.
+- Khuỷu tay dị dạng (vẹo ra ngoài), đốt ngón tay thứ IV ngắn, móng tay nhỏ.
 
 ---
 
 ### Tài liệu tham khảo
-* *Hook EB, Warburton D. Hum Genet. 2014;133(4):417-424.*
-* *Jones KL, Jones MC, del Campo M. Smith’s Recognizable Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier Saunders; 2013.*
-* *Your guide to understanding genetic conditions: Turner syndrome. Genetics Home Reference.*
+
+- _Hook EB, Warburton D. Hum Genet. 2014;133(4):417-424._
+- _Jones KL, Jones MC, del Campo M. Smith’s Recognizable Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier Saunders; 2013._
+- _Your guide to understanding genetic conditions: Turner syndrome. Genetics Home Reference._

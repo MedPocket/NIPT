@@ -13,8 +13,8 @@ description: "Phân tích trường hợp thai phụ nhận kết quả triSure 
 
 ### 2. Chi tiết ca lâm sàng
 
-* **Đối tượng:** Thai phụ thực hiện xét nghiệm sàng lọc trước sinh **triSure3** lúc thai **27 tuần tuổi**.
-* **Kết quả xét nghiệm triSure3:** Phát hiện nguy cơ cao bất thường lệch bội **Trisomy 13 (Tam nhiễm sắc thể 13)**:
+- **Đối tượng:** Thai phụ thực hiện xét nghiệm sàng lọc trước sinh **triSure3** lúc thai **27 tuần tuổi**.
+- **Kết quả xét nghiệm triSure3:** Phát hiện nguy cơ cao bất thường lệch bội **Trisomy 13 (Tam nhiễm sắc thể 13)**:
   - Chỉ số nguy cơ **Z-score (NST 13) = 7.51** (Ngưỡng nguy cơ cao khi Z-score ≥ 3).
   - Các nhiễm sắc thể 18 và 21 có chỉ số nguy cơ thấp bình thường.
 

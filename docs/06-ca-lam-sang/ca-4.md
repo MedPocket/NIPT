@@ -13,8 +13,8 @@ Do đó, nếu bản thân người mẹ mang bất thường di truyền (như 
 
 ### 2. Chi tiết ca lâm sàng
 
-* **Đối tượng:** Thai phụ thực hiện xét nghiệm **triSure NIPT** lúc thai **11 tuần tuổi**.
-* **Kết quả xét nghiệm triSure NIPT:**
+- **Đối tượng:** Thai phụ thực hiện xét nghiệm **triSure NIPT** lúc thai **11 tuần tuổi**.
+- **Kết quả xét nghiệm triSure NIPT:**
   - Các nhiễm sắc thể thường (13, 18, 21) có kết quả nguy cơ thấp bình thường.
   - **Nhiễm sắc thể giới tính:** Hệ thống đưa ra cảnh báo **Không thể phát hiện bất thường nhiễm sắc thể giới tính của thai do nghi ngờ người mẹ bị hội chứng Trisomy X (Triple X - 47,XXX)**.
 

@@ -15,15 +15,16 @@ Quy trình kỹ thuật và độ chính xác của **triSure NIPT** đã đư�
 
 ### So sánh các chỉ số hiệu quả lâm sàng
 
-| Tiêu chí đánh giá | triSure - NIPT | Xét nghiệm sinh hóa (Combined Test) |
-| :--- | :---: | :---: |
-| **Độ nhạy** *(Khả năng xét nghiệm dương tính khi thai thật sự mắc dị tật)* | **98%** *(1)* | **82%** *(3)* |
-| **Độ đặc hiệu** *(Khả năng xét nghiệm âm tính khi thai thật sự không mắc dị tật)* | **99%** *(1)* | **95%** *(3)* |
-| **Giá trị tiên đoán dương** *(Khả năng thai thật sự mắc dị tật khi có kết quả dương tính)* | **94,3%** *(Dựa trên 34.250 xét nghiệm)* | **6%** *(2)* *(Dự báo chung cho Trisomy 21, 18, 13)* |
+| Tiêu chí đánh giá                                                                          |              triSure - NIPT              |         Xét nghiệm sinh hóa (Combined Test)          |
+| :----------------------------------------------------------------------------------------- | :--------------------------------------: | :--------------------------------------------------: |
+| **Độ nhạy** _(Khả năng xét nghiệm dương tính khi thai thật sự mắc dị tật)_                 |              **98%** _(1)_               |                    **82%** _(3)_                     |
+| **Độ đặc hiệu** _(Khả năng xét nghiệm âm tính khi thai thật sự không mắc dị tật)_          |              **99%** _(1)_               |                    **95%** _(3)_                     |
+| **Giá trị tiên đoán dương** _(Khả năng thai thật sự mắc dị tật khi có kết quả dương tính)_ | **94,3%** _(Dựa trên 34.250 xét nghiệm)_ | **6%** _(2)_ _(Dự báo chung cho Trisomy 21, 18, 13)_ |
 
 ---
 
 ### Tài liệu tham khảo
-1. *Phan et al. Establishing and validating noninvasive prenatal testing procedure for fetal aneuploidies in Vietnam. J Matern Fetal Neonatal Med. 2018 Jul 10:1-7.*
-2. *Siljee, Jacqueline E., et al. "Positive predictive values for detection of trisomies 21, 18 and 13 and termination of pregnancy rates after referral for advanced maternal age, first trimester combined test or ultrasound abnormalities in a national screening programme (2007–2009)." Prenatal diagnosis 34.3 (2014): 259-264.*
-3. *Grace, Matthew R., et al. "Cell-free DNA screening: complexities and challenges of clinical implementation." Obstetrical & gynecological survey 71.8 (2016): 477.*
+
+1. _Phan et al. Establishing and validating noninvasive prenatal testing procedure for fetal aneuploidies in Vietnam. J Matern Fetal Neonatal Med. 2018 Jul 10:1-7._
+2. _Siljee, Jacqueline E., et al. "Positive predictive values for detection of trisomies 21, 18 and 13 and termination of pregnancy rates after referral for advanced maternal age, first trimester combined test or ultrasound abnormalities in a national screening programme (2007–2009)." Prenatal diagnosis 34.3 (2014): 259-264._
+3. _Grace, Matthew R., et al. "Cell-free DNA screening: complexities and challenges of clinical implementation." Obstetrical & gynecological survey 71.8 (2016): 477._

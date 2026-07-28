@@ -3,7 +3,7 @@ title: "Vàng da ứ mật do thiếu men citrin"
 description: "Tầm soát bệnh chuyển hóa di truyền lặn trên nhiễm sắc thể thường gây tổn thương gan, vàng da kéo dài và hôn mê não."
 ---
 
-- **Gen khảo sát:** Tất cả các đột biến điểm trên gen *SLC25A13* nằm trên nhiễm sắc thể thường số 7.
+- **Gen khảo sát:** Tất cả các đột biến điểm trên gen _SLC25A13_ nằm trên nhiễm sắc thể thường số 7.
 - **Tần suất người lành mang gen ở Việt Nam:** **1/32**.
 
 ### Biểu hiện lâm sàng:
@@ -22,10 +22,10 @@ Bệnh chuyển hóa do thiếu men citrin ảnh hưởng đến chu trình urê
 
 ### Điều trị:
 
-* Can thiệp dinh dưỡng thích hợp: Bổ sung vitamin tan trong dầu (A, D, E, K), sử dụng sữa không chứa lactose và giàu chất béo chuỗi trung bình (MCT).
-* Khuyến khích chế độ ăn giàu đạm, chất béo và ít carbohydrate theo sở thích tự nhiên của bệnh nhân.
-* Trong một số ít trường hợp suy gan thể nặng ở tuổi trưởng thành, ghép gan là chỉ định bắt buộc.
+- Can thiệp dinh dưỡng thích hợp: Bổ sung vitamin tan trong dầu (A, D, E, K), sử dụng sữa không chứa lactose và giàu chất béo chuỗi trung bình (MCT).
+- Khuyến khích chế độ ăn giàu đạm, chất béo và ít carbohydrate theo sở thích tự nhiên của bệnh nhân.
+- Trong một số ít trường hợp suy gan thể nặng ở tuổi trưởng thành, ghép gan là chỉ định bắt buộc.
 
 ### Tiên lượng:
 
-* Tiên lượng của bệnh nhân rất tốt nếu bệnh được phát hiện sớm từ sàng lọc sơ sinh, được điều trị dinh dưỡng thích hợp và theo dõi sát sao tiến triển bệnh lý.
+- Tiên lượng của bệnh nhân rất tốt nếu bệnh được phát hiện sớm từ sàng lọc sơ sinh, được điều trị dinh dưỡng thích hợp và theo dõi sát sao tiến triển bệnh lý.

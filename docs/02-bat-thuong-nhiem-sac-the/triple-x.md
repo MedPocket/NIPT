@@ -10,15 +10,16 @@ description: "Sàng lọc bất thường số lượng nhiễm sắc thể gi�
 
 ### Đặc điểm thường gặp (khi có biểu hiện):
 
-* Chiều cao cao hơn chiều cao trung bình.
-* Khó khăn khi học tập, nói, chậm phát triển ngôn ngữ.
-* Chậm phát triển các kỹ năng vận động tinh và thô.
-* Gặp một số khó khăn về hành vi và cảm xúc.
-* Một số ít trường hợp có bất thường về phát triển giới tính và khả năng sinh sản.
-* Có thể gặp tình trạng não thất giãn rộng.
+- Chiều cao cao hơn chiều cao trung bình.
+- Khó khăn khi học tập, nói, chậm phát triển ngôn ngữ.
+- Chậm phát triển các kỹ năng vận động tinh và thô.
+- Gặp một số khó khăn về hành vi và cảm xúc.
+- Một số ít trường hợp có bất thường về phát triển giới tính và khả năng sinh sản.
+- Có thể gặp tình trạng não thất giãn rộng.
 
 ---
 
 ### Tài liệu tham khảo
-* *Jones KL, Jones MC, del Campo M. Smith’s Recognizable Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier Saunders; 2013.*
-* *Your guide to understanding genetic conditions: Triple X Syndrome. Genetics Home Reference.*
+
+- _Jones KL, Jones MC, del Campo M. Smith’s Recognizable Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier Saunders; 2013._
+- _Your guide to understanding genetic conditions: Triple X Syndrome. Genetics Home Reference._

@@ -11,18 +11,18 @@ Xét nghiệm **triSure NIPT** thực hiện sàng lọc toàn diện các nhóm
 
 Khảo sát các bất thường về số lượng nhiễm sắc thể và các hội chứng vi mất đoạn lớn:
 
-* **Lệch bội nhiễm sắc thể phổ biến:**
+- **Lệch bội nhiễm sắc thể phổ biến:**
   - Hội chứng Down (Trisomy 21)
   - Hội chứng Edwards (Trisomy 18)
   - Hội chứng Patau (Trisomy 13)
-* **Lệch bội nhiễm sắc thể giới tính:**
+- **Lệch bội nhiễm sắc thể giới tính:**
   - Hội chứng Turner (XO)
   - Hội chứng Klinefelter (XXY)
   - Hội chứng Triple X (XXX)
   - Hội chứng Jacobs (XYY)
   - Biến thể nặng hơn của Klinefelter (XXXY)
-* **Tam nhiễm sắc thể hiếm khác (RATs):** Sàng lọc lệch bội trên 19 cặp nhiễm sắc thể còn lại.
-* **5 Hội chứng vi mất đoạn nghiêm trọng (gói triSure Procare):**
+- **Tam nhiễm sắc thể hiếm khác (RATs):** Sàng lọc lệch bội trên 19 cặp nhiễm sắc thể còn lại.
+- **5 Hội chứng vi mất đoạn nghiêm trọng (gói triSure Procare):**
   - Hội chứng DiGeorge (Mất đoạn 22q11.2)
   - Hội chứng Mất đoạn 1p36
   - Hội chứng Cri-du-chat (Mất đoạn 5p)
@@ -33,7 +33,7 @@ Khảo sát các bất thường về số lượng nhiễm sắc thể và các
 
 ### 2. Bệnh di truyền trội đơn gen cho thai (25 bệnh phổ biến)
 
-Khảo sát đột biến điểm mới xuất hiện (*de novo*) trên 30 gen mục tiêu ở thai, được chia thành các nhóm:
+Khảo sát đột biến điểm mới xuất hiện (_de novo_) trên 30 gen mục tiêu ở thai, được chia thành các nhóm:
 
 1. **Loạn sản xương - sụn - mô liên kết:** Achondroplasia, Hypochondroplasia, Loạn sản xương gây tử vong, Bệnh xương thủy tinh, Hội chứng CATSHL, Hội chứng Ehlers-Danlos.
 2. **Hội chứng dính khớp sọ sớm:** Hội chứng Muenke, Hội chứng Crouzon, Hội chứng Antley Bixler, Hội chứng Apert, Hội chứng Pfeiffer, Hội chứng Jackson Weiss.

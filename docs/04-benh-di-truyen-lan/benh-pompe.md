@@ -3,7 +3,7 @@ title: "Bệnh Pompe (Rối loạn dự trữ glycogen loại 2)"
 description: "Tầm soát di truyền lặn trên nhiễm sắc thể thường gây tích tụ glycogen phá hủy cơ xương, cơ tim và hệ hô hấp."
 ---
 
-- **Gen khảo sát:** Tất cả các đột biến điểm trên gen *GAA* nằm trên nhiễm sắc thể thường số 17.
+- **Gen khảo sát:** Tất cả các đột biến điểm trên gen _GAA_ nằm trên nhiễm sắc thể thường số 17.
 - **Tần suất người lành mang gen ở Việt Nam:** **1/52**.
 
 ### Biểu hiện lâm sàng:
@@ -20,10 +20,10 @@ Bệnh Pompe xảy ra do sự thiếu hụt men acid alpha-glucosidase (GAA), kh
 
 ### Điều trị:
 
-* Điều trị đặc hiệu bằng **liệu pháp thay thế enzyme (ERT)** truyền tĩnh mạch định kỳ suốt đời để bù đắp men GAA bị thiếu hụt.
-* Trẻ được xác định mắc bệnh Pompe từ sàng lọc trước sinh/sơ sinh cần bắt đầu điều trị ERT ngay lập tức khi chưa có triệu chứng rõ rệt để ngăn ngừa các tổn thương vĩnh viễn.
+- Điều trị đặc hiệu bằng **liệu pháp thay thế enzyme (ERT)** truyền tĩnh mạch định kỳ suốt đời để bù đắp men GAA bị thiếu hụt.
+- Trẻ được xác định mắc bệnh Pompe từ sàng lọc trước sinh/sơ sinh cần bắt đầu điều trị ERT ngay lập tức khi chưa có triệu chứng rõ rệt để ngăn ngừa các tổn thương vĩnh viễn.
 
 ### Tiên lượng:
 
-* Tiên lượng phụ thuộc nhiều vào thể bệnh và thời điểm bắt đầu điều trị.
-* Chẩn đoán sớm từ sàng lọc trước sinh/sơ sinh và điều trị ERT kịp thời giúp cải thiện đáng kể khả năng vận động, bảo vệ cơ tim, kéo dài tuổi thọ và nâng cao chất lượng cuộc sống cho trẻ.
+- Tiên lượng phụ thuộc nhiều vào thể bệnh và thời điểm bắt đầu điều trị.
+- Chẩn đoán sớm từ sàng lọc trước sinh/sơ sinh và điều trị ERT kịp thời giúp cải thiện đáng kể khả năng vận động, bảo vệ cơ tim, kéo dài tuổi thọ và nâng cao chất lượng cuộc sống cho trẻ.

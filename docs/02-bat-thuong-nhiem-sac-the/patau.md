@@ -11,14 +11,15 @@ description: "Sàng lọc Tam nhiễm sắc thể 13 (Trisomy 13), hội chứng
 
 ### Đặc điểm thường gặp:
 
-* Bất thường nghiêm trọng về cấu trúc tim, não (não thất duy nhất) và thận.
-* Sứt môi và chẻ vòm hầu.
-* Đầu nhỏ, thiếu lông mày, tai thấp và biến dạng.
-* Dị tật thừa ngón tay/ngón chân.
-* Khuyết tật phát triển thể chất và trí tuệ nghiêm trọng.
+- Bất thường nghiêm trọng về cấu trúc tim, não (não thất duy nhất) và thận.
+- Sứt môi và chẻ vòm hầu.
+- Đầu nhỏ, thiếu lông mày, tai thấp và biến dạng.
+- Dị tật thừa ngón tay/ngón chân.
+- Khuyết tật phát triển thể chất và trí tuệ nghiêm trọng.
 
 ---
 
 ### Tài liệu tham khảo
-* *Jones KL, Jones MC, del Campo M. Smith’s Recognizable Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier Saunders; 2013.*
-* *Your guide to understanding genetic conditions: Trisomy 13. Genetics Home Reference.*
+
+- _Jones KL, Jones MC, del Campo M. Smith’s Recognizable Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier Saunders; 2013._
+- _Your guide to understanding genetic conditions: Trisomy 13. Genetics Home Reference._

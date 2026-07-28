@@ -11,14 +11,15 @@ description: "Sàng lọc Hội chứng tiếng mèo kêu do mất đoạn cánh
 
 ### Đặc điểm thường gặp:
 
-* **Tiếng khóc đặc trưng:** Tiếng khóc âm vực rất cao và chói giống tiếng mèo kêu (*cat-like cry*), do bất thường cấu trúc thanh quản (thường biến mất khi trẻ lớn lên).
-* **Đặc điểm hình thái:** Kích thước đầu nhỏ, hai mắt cách xa nhau, tai đóng thấp.
-* **Hệ cơ xương:** Giảm trương lực cơ rõ rệt, khó khăn lớn trong việc ăn uống, dễ bị sặc sữa/thức ăn.
-* **Dị tật bẩm sinh:** Một số trẻ có dị tật tim hoặc hô hấp mức độ nhẹ đến trung bình.
-* **Nhận thức:** Thiểu năng trí tuệ mức độ trung bình đến nặng, chậm phát triển tâm thần vận động rõ rệt.
+- **Tiếng khóc đặc trưng:** Tiếng khóc âm vực rất cao và chói giống tiếng mèo kêu (_cat-like cry_), do bất thường cấu trúc thanh quản (thường biến mất khi trẻ lớn lên).
+- **Đặc điểm hình thái:** Kích thước đầu nhỏ, hai mắt cách xa nhau, tai đóng thấp.
+- **Hệ cơ xương:** Giảm trương lực cơ rõ rệt, khó khăn lớn trong việc ăn uống, dễ bị sặc sữa/thức ăn.
+- **Dị tật bẩm sinh:** Một số trẻ có dị tật tim hoặc hô hấp mức độ nhẹ đến trung bình.
+- **Nhận thức:** Thiểu năng trí tuệ mức độ trung bình đến nặng, chậm phát triển tâm thần vận động rõ rệt.
 
 ---
 
 ### Tài liệu tham khảo
-* *GeneReviews.*
-* *Tran, Danh-Cuong, et al. "The genetic landscape of chromosomal aberrations in 3776 Vietnamese fetuses with clinical anomalies during pregnancy." Personalized Medicine 21.2 (2024): 79-87.*
+
+- _GeneReviews._
+- _Tran, Danh-Cuong, et al. "The genetic landscape of chromosomal aberrations in 3776 Vietnamese fetuses with clinical anomalies during pregnancy." Personalized Medicine 21.2 (2024): 79-87._

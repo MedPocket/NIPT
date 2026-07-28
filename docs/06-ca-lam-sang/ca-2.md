@@ -13,8 +13,8 @@ Vì NIPT dựa trên DNA tự do giải phóng từ bánh nhau, trường hợp 
 
 ### 2. Chi tiết ca lâm sàng
 
-* **Đối tượng:** Thai phụ thực hiện xét nghiệm sàng lọc trước sinh **triSure NIPT** lúc thai **11.5 tuần tuổi**.
-* **Kết quả xét nghiệm triSure NIPT:** Kết quả báo **Nguy cơ thấp (Âm tính)** đối với tất cả các hội chứng lệch bội phổ biến và lệch bội nhiễm sắc thể giới tính:
+- **Đối tượng:** Thai phụ thực hiện xét nghiệm sàng lọc trước sinh **triSure NIPT** lúc thai **11.5 tuần tuổi**.
+- **Kết quả xét nghiệm triSure NIPT:** Kết quả báo **Nguy cơ thấp (Âm tính)** đối với tất cả các hội chứng lệch bội phổ biến và lệch bội nhiễm sắc thể giới tính:
   - Z-score (Trisomy 21) = -0.52 (Nguy cơ thấp)
   - Z-score (Trisomy 18) = -0.85 (Nguy cơ thấp)
   - Z-score (Trisomy 13) = 0.02 (Nguy cơ thấp)

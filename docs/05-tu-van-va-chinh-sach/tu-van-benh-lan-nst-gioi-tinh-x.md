@@ -7,10 +7,10 @@ Các bệnh di truyền lặn liên kết nhiễm sắc thể giới tính X (nh
 
 ### 1. Quy trình tư vấn kết quả:
 
-* **Trường hợp thai phụ ÂM TÍNH (-):**
+- **Trường hợp thai phụ ÂM TÍNH (-):**
   - Xác định thai phụ không mang gen bệnh thể ẩn trên các gen nằm trên NST X được khảo sát.
   - Thai phụ tiếp tục khám thai định kỳ.
-* **Trường hợp thai phụ DƯƠNG TÍNH (+):**
+- **Trường hợp thai phụ DƯƠNG TÍNH (+):**
   - Xác định thai phụ là **người lành mang gen bệnh thể ẩn trên nhiễm sắc thể X**. Do nữ giới có hai nhiễm sắc thể X (46,XX) nên bản sao X bình thường còn lại sẽ bù đắp chức năng, thai phụ thường không bộc lộ triệu chứng bệnh.
   - Tuy nhiên, thai phụ có nguy cơ rất cao truyền gen bệnh này cho thế hệ con:
     - **Đối với con trai (46,XY):** Nhận nhiễm sắc thể X từ mẹ. Do đó, con trai sẽ có **50% nguy cơ mắc bệnh** thực sự (nếu nhận X mang gen đột biến) và 50% cơ hội hoàn toàn khỏe mạnh.

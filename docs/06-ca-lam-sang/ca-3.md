@@ -13,8 +13,8 @@ Các bất thường về **cấu trúc** nhiễm sắc thể (như vi mất đo
 
 ### 2. Chi tiết ca lâm sàng
 
-* **Đối tượng:** Thai phụ thực hiện xét nghiệm **triSure NIPT** lúc thai **13 tuần tuổi**.
-* **Kết quả xét nghiệm triSure NIPT:** Đạt kết quả **Nguy cơ thấp (Âm tính)** đối với tất cả các nhóm lệch bội khảo sát:
+- **Đối tượng:** Thai phụ thực hiện xét nghiệm **triSure NIPT** lúc thai **13 tuần tuổi**.
+- **Kết quả xét nghiệm triSure NIPT:** Đạt kết quả **Nguy cơ thấp (Âm tính)** đối với tất cả các nhóm lệch bội khảo sát:
   - Z-score (NST 21) = -1.24 (Nguy cơ thấp)
   - Z-score (NST 18) = -0.25 (Nguy cơ thấp)
   - Z-score (NST 13) = -0.69 (Nguy cơ thấp)

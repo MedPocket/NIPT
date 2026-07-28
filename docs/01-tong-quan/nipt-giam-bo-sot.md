@@ -29,4 +29,5 @@ Khi sử dụng phương pháp sàng lọc truyền thống, số ca cần thự
 > **NIPT giúp giảm số ca chọc ối "oan" tới 25 lần.**
 
 ---
-*\* Tài liệu tham khảo: Grace et al. Obstet Gynecol Surv, 2016 August, 71(8): 477-487.*
+
+_\* Tài liệu tham khảo: Grace et al. Obstet Gynecol Surv, 2016 August, 71(8): 477-487._

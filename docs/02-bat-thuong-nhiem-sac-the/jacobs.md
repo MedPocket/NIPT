@@ -10,13 +10,14 @@ description: "Sàng lọc bất thường số lượng nhiễm sắc thể gi�
 
 ### Đặc điểm thường gặp:
 
-* Chiều cao cao hơn chiều cao trung bình.
-* Khó khăn khi học tập, nói, chậm phát triển ngôn ngữ.
-* Tăng nguy cơ mắc chứng tăng động giảm chú ý (ADHD) và các rối loạn phổ tự kỷ (ASD).
-* Khả năng sinh sản thông thường là hoàn toàn bình thường.
+- Chiều cao cao hơn chiều cao trung bình.
+- Khó khăn khi học tập, nói, chậm phát triển ngôn ngữ.
+- Tăng nguy cơ mắc chứng tăng động giảm chú ý (ADHD) và các rối loạn phổ tự kỷ (ASD).
+- Khả năng sinh sản thông thường là hoàn toàn bình thường.
 
 ---
 
 ### Tài liệu tham khảo
-* *Jones KL, Jones MC, del Campo M. Smith’s Recognizable Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier Saunders; 2013.*
-* *Your guide to understanding genetic conditions: Klinefelter Syndrome. Genetics Home Reference.*
+
+- _Jones KL, Jones MC, del Campo M. Smith’s Recognizable Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier Saunders; 2013._
+- _Your guide to understanding genetic conditions: Klinefelter Syndrome. Genetics Home Reference._

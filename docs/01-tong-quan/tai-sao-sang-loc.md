@@ -15,4 +15,5 @@ Con số này sẽ giảm đi nhiều nếu các thai phụ được tầm soát
 - **Mỗi 13 phút** sẽ có 1 trẻ chào đời mang dị tật bẩm sinh.
 
 ---
-*\* Thống kê dân số năm 2017 - vietnamplus.vn*
+
+_\* Thống kê dân số năm 2017 - vietnamplus.vn_

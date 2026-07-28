@@ -7,10 +7,10 @@ Khi thai phụ thực hiện xét nghiệm tầm soát mang gen bệnh di truy�
 
 ### 1. Sơ đồ quy trình tư vấn:
 
-* **Trường hợp thai phụ có kết quả ÂM TÍNH (-):**
+- **Trường hợp thai phụ có kết quả ÂM TÍNH (-):**
   - Xác định thai phụ không mang đột biến gây bệnh thể ẩn trên các gen được khảo sát.
   - Thai phụ tiếp tục khám thai định kỳ.
-* **Trường hợp thai phụ có kết quả DƯƠNG TÍNH (+):**
+- **Trường hợp thai phụ có kết quả DƯƠNG TÍNH (+):**
   - Xác định thai phụ là **người lành mang gen bệnh thể ẩn** (hoàn toàn không có triệu chứng lâm sàng).
   - Khuyến cáo mạnh mẽ thu mẫu máu của **người chồng** để làm xét nghiệm đột biến trên cùng gen đó (xét nghiệm này được hỗ trợ miễn phí hoặc có thu phí tùy theo gói):
     - **Nếu Chồng ÂM TÍNH (-):** Cặp vợ chồng có nguy cơ rất thấp sinh con bị bệnh (chỉ có nguy cơ con trở thành người mang gen lành giống mẹ). Thai phụ tiếp tục khám thai định kỳ.

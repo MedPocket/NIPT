@@ -20,4 +20,5 @@ Xét nghiệm **triSure NIPT** được phát triển bởi **Gene Solutions** m
 - **Cam kết trọn vẹn:** Luôn đồng hành cùng bác sĩ và thai phụ trong suốt thai kỳ với các chương trình hỗ trợ và tư vấn di truyền sau xét nghiệm.
 
 ---
-*\* Kể từ ngày phòng thí nghiệm Gene Solutions nhận mẫu.*
+
+_\* Kể từ ngày phòng thí nghiệm Gene Solutions nhận mẫu._

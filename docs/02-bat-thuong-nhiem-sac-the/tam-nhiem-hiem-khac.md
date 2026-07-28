@@ -10,14 +10,15 @@ description: "Sàng lọc Tam nhiễm sắc thể hiếm gặp (Rare Autosomal T
 
 ### Các biểu hiện và rủi ro thường gặp:
 
-* Tăng nguy cơ sẩy thai tự nhiên.
-* Thai nhi tử vong trong tử cung và thai lưu.
-* **Thể khảm khu trú ở bánh nhau (Confined Placental Mosaicism - CPM):** Có thể dẫn đến tình trạng hạn chế tăng trưởng trong tử cung của thai nhi (IUGR) và các rối loạn liên quan đến lưỡng bội từ bố hoặc mẹ (Uniparental Disomy - UPD).
-* Khuyết tật trí tuệ, chậm phát triển thể chất và các khuyết tật bẩm sinh về cấu trúc.
-* Trong một số trường hợp (như khảm mức độ thấp hoặc chỉ khảm ở bánh nhau mà thai bình thường), kiểu hình lâm sàng của trẻ sinh ra có thể hoàn toàn bình thường.
+- Tăng nguy cơ sẩy thai tự nhiên.
+- Thai nhi tử vong trong tử cung và thai lưu.
+- **Thể khảm khu trú ở bánh nhau (Confined Placental Mosaicism - CPM):** Có thể dẫn đến tình trạng hạn chế tăng trưởng trong tử cung của thai nhi (IUGR) và các rối loạn liên quan đến lưỡng bội từ bố hoặc mẹ (Uniparental Disomy - UPD).
+- Khuyết tật trí tuệ, chậm phát triển thể chất và các khuyết tật bẩm sinh về cấu trúc.
+- Trong một số trường hợp (như khảm mức độ thấp hoặc chỉ khảm ở bánh nhau mà thai bình thường), kiểu hình lâm sàng của trẻ sinh ra có thể hoàn toàn bình thường.
 
 ---
 
 ### Tài liệu tham khảo
-* *Jones KL, Jones MC, del Campo M. Smith’s Recognizable Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier Saunders; 2013.*
-* *Genetics Home Reference.*
+
+- _Jones KL, Jones MC, del Campo M. Smith’s Recognizable Patterns of Human Malformation. 7th ed. Philadelphia: Elsevier Saunders; 2013._
+- _Genetics Home Reference._
