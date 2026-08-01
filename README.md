@@ -19,4 +19,4 @@ Open your web browser and navigate to http://localhost:4321/NIPT.
 
 Copyright &copy; MedPocket. All rights reserved.
 
-_We do not own the copyrights to some content. It is shared strictly for educational purposes. If you are the copyright owner and wish to have this content removed, please contact us immediately for prompt action._
+_We do not own the copyrights to the content. It is shared strictly for educational purposes. If you are the copyright owner and wish to have this content removed, please contact us immediately for prompt action._
