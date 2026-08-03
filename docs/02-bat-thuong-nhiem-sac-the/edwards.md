@@ -5,6 +5,8 @@ description: "Sàng lọc Tam nhiễm sắc thể 18 (Trisomy 18), bất thườ
 
 **Hội chứng Edwards (Tam nhiễm sắc thể 18)** là dị tật bẩm sinh do bất thường số lượng nhiễm sắc thể phổ biến thứ hai ở trẻ sơ sinh còn sống.
 
+![Hội chứng Edwards](./edwards.png)
+
 - **Tần suất:** Cứ 5.000 trẻ sơ sinh còn sống sẽ có 1 trẻ mắc hội chứng Edwards.
 - **Tiên lượng:** Tuổi thọ thường rất thấp, phần lớn dưới một tuổi.
 - **Biểu hiện lâm sàng:** Biểu hiện lâm sàng có thể khác nhau và rất nghiêm trọng.

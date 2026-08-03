@@ -5,6 +5,8 @@ description: "Sàng lọc bất thường số lượng nhiễm sắc thể gi�
 
 **Hội chứng Triple X (47,XXX)** xảy ra ở nữ giới khi có thêm một nhiễm sắc thể X thứ ba trong các tế bào.
 
+![Hội chứng Triple X](./triple-x.png)
+
 - **Tần suất:** Cứ 1.000 trẻ sơ sinh nữ còn sống sẽ có 1 trẻ mắc hội chứng Triple X.
 - **Biểu hiện lâm sàng:** Nhiều người nữ bị 47,XXX không có biểu hiện đặc điểm rõ ràng ra ngoài, do đó thường không được phát hiện. Phần lớn người nữ mắc hội chứng này có hình thể và khả năng sinh sản hoàn toàn bình thường.
 

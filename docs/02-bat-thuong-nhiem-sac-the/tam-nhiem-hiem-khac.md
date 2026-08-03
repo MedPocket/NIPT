@@ -5,6 +5,12 @@ description: "Sàng lọc Tam nhiễm sắc thể hiếm gặp (Rare Autosomal T
 
 **Tam nhiễm sắc thể hiếm gặp (RATs)** bao gồm các trường hợp thừa một nhiễm sắc thể ở các cặp nhiễm sắc thể không phải là 21, 18, 13, X hoặc Y.
 
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <img src="./tam-nhiem-hiem-khac-1.png" alt="Tam nhiễm hiếm khác 1" width="220" />
+  <img src="./tam-nhiem-hiem-khac-2.png" alt="Tam nhiễm hiếm khác 2" width="220" />
+  <img src="./tam-nhiem-hiem-khac-3.png" alt="Tam nhiễm hiếm khác 3" width="220" />
+</div>
+
 - **Tần suất:** Tỷ lệ phát hiện tam nhiễm sắc thể hiếm gặp trong xét nghiệm NIPT là khoảng **0.28% - 0.78%**.
 - **Biểu hiện lâm sàng:** Biểu hiện lâm sàng rất đa dạng và phụ thuộc vào loại nhiễm sắc thể bị thừa cũng như mức độ khảm.
 

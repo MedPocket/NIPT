@@ -5,6 +5,8 @@ description: "Sàng lọc bất thường số lượng nhiễm sắc thể gi�
 
 **Hội chứng Klinefelter (47,XXY)** xảy ra ở nam giới khi có thêm một nhiễm sắc thể X trong bộ nhiễm sắc thể.
 
+![Hội chứng Klinefelter](./klinefelter.png)
+
 - **Tần suất:** Cứ 650 trẻ sơ sinh nam còn sống sẽ có 1 trẻ mắc hội chứng Klinefelter.
 - **Biểu hiện lâm sàng:** Biểu hiện lâm sàng có thể khác nhau và thường trở nên rõ rệt hơn sau tuổi dậy thì.
 

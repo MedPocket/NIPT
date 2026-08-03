@@ -7,6 +7,11 @@ description: "Phân loại các gói xét nghiệm triSure NIPT, phạm vi khả
 
 Gene Solutions cung cấp đa dạng các gói xét nghiệm triSure NIPT đáp ứng nhu cầu sàng lọc khác nhau của thai phụ:
 
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="./tam-soat-1.png" alt="Tầm soát 1" width="300" />
+  <img src="./tam-soat-2.png" alt="Tầm soát 2" width="300" />
+</div>
+
 - **triSureFirst:** Khảo sát 3 hội chứng lệch bội phổ biến nhất (Trisomy 21, 18, 13).
 - **triSure3:** Khảo sát 3 hội chứng lệch bội phổ biến (Trisomy 21, 18, 13) kèm chính sách hỗ trợ cơ bản.
 - **triSure:** Khảo sát 3 lệch bội phổ biến (T21, T18, T13) + Lệch bội NST giới tính (Turner XO, Klinefelter XXY, Triple X, Jacobs XYY) + 25 bệnh di truyền trội đơn gen phổ biến nhất cho thai.

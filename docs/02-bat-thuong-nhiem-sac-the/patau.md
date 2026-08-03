@@ -5,6 +5,8 @@ description: "Sàng lọc Tam nhiễm sắc thể 13 (Trisomy 13), hội chứng
 
 **Hội chứng Patau (Tam nhiễm sắc thể 13)** là một bất thường nhiễm sắc thể nặng nề, phần lớn các trường hợp thai nhi bị mất sớm trong tử cung.
 
+![Hội chứng Patau](./patau.png)
+
 - **Tần suất:** Cứ 16.000 trẻ sơ sinh còn sống sẽ có 1 trẻ mắc hội chứng Patau.
 - **Tiên lượng:** Rất nặng, trẻ sinh ra thường tử vong dưới một tuổi.
 - **Biểu hiện lâm sàng:** Biểu hiện lâm sàng có thể khác nhau và cực kỳ nghiêm trọng.

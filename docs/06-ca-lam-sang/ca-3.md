@@ -19,9 +19,13 @@ Các bất thường về **cấu trúc** nhiễm sắc thể (như vi mất đo
   - Z-score (NST 18) = -0.25 (Nguy cơ thấp)
   - Z-score (NST 13) = -0.69 (Nguy cơ thấp)
 
+![Kết quả xét nghiệm triSure NIPT âm tính](./ca-3-1.png)
+
 ---
 
 ### 3. Quy trình phát hiện và chẩn đoán khẳng định
+
+![Kết quả CNV-Seq dịch ối](./ca-3-2.png)
 
 1. **Bất thường siêu âm tuần 23:** Khi tiến hành siêu âm hình thái học ở thời điểm thai được 23 tuần 5 ngày, bác sĩ phát hiện thai nhi có các bất thường cấu trúc rất nặng:
    - Thai nhi bị chậm tăng trưởng nghiêm trọng trong tử cung (IUGR).
