@@ -35,11 +35,11 @@ Vì NIPT dựa trên DNA tự do giải phóng từ bánh nhau, trường hợp 
    - Động mạch phổi nhỏ bất thường.
    - Bụng thai nhi xuất hiện nhiều dịch (tràn dịch màng bụng).
 
-![Karyotype kết quả dịch ối](./ca-2-4.png)
-2. **Chọc ối chẩn đoán:** Bác sĩ chỉ định thực hiện thủ thuật chọc ối khẩn cấp để làm xét nghiệm lập karyotype tế bào ối.
-3. **Kết quả Karyotype dịch ối:** Phát hiện thai bị **khảm 2 dòng tế bào**:
-   - **Dòng tế bào bình thường:** Chiếm tỷ lệ **70.6%**.
-   - **Dòng tế bào bất thường mang đa tam nhiễm (Trisomy 7, 14, và 20):** Chiếm tỷ lệ **29.4%**.
+![Karyotype kết quả dịch ối](./ca-2-4.png) 2. **Chọc ối chẩn đoán:** Bác sĩ chỉ định thực hiện thủ thuật chọc ối khẩn cấp để làm xét nghiệm lập karyotype tế bào ối. 3. **Kết quả Karyotype dịch ối:** Phát hiện thai bị **khảm 2 dòng tế bào**:
+
+- **Dòng tế bào bình thường:** Chiếm tỷ lệ **70.6%**.
+- **Dòng tế bào bất thường mang đa tam nhiễm (Trisomy 7, 14, và 20):** Chiếm tỷ lệ **29.4%**.
+
 4. **Kết quả kiểm tra ngoại kiểm tin sinh học:**
    - Tiến hành chạy lại mẫu máu mẹ trên hệ thống Ion Torrent độc lập.
    - Kết quả phân tích DNA tự do nhau thai vẫn ghi nhận hàm lượng nhiễm sắc thể 13, 18, 21, giới tính và các NST khác hoàn toàn bình thường (tương đồng 100% với kết quả sàng lọc ban đầu).
