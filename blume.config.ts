@@ -18,16 +18,20 @@ export default defineConfig({
     hideDefaultLocalePrefix: true,
   },
 
-  seo: {
-    og: {
-      fonts: ["Be Vietnam Pro"],
-    },
-  },
-
   theme: {
     accent: "blue",
     radius: "md",
     mode: "system",
+    fonts: {
+      body: {
+        name: "Be Vietnam Pro",
+        weights: [100, 200, 300, 400, 500, 600, 700, 800, 900],
+      },
+      display: {
+        name: "Be Vietnam Pro",
+        weights: [100, 200, 300, 400, 500, 600, 700, 800, 900],
+      },
+    },
   },
 
   deployment: {
