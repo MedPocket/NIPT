@@ -5,7 +5,7 @@ description: "Sàng lọc bất thường số lượng nhiễm sắc thể gi�
 
 **Hội chứng 48,XXXY (biến thể nặng hơn của Hội chứng Klinefelter)** xảy ra ở nam giới khi có thêm hai nhiễm sắc thể X phụ trong tế bào.
 
-![Hội chứng 48,XXXY](./klinefelter-bien-the.png)
+![Hội chứng 48,XXXY](../assets/klinefelter-bien-the.png)
 
 - **Tần suất:** Xuất hiện với tỷ lệ khoảng 1/50.000 trẻ sơ sinh nam còn sống.
 - **Biểu hiện lâm sàng:** Các đặc điểm của hội chứng 48,XXXY có xu hướng nghiêm trọng hơn so với hội chứng Klinefelter 47,XXY thông thường và ảnh hưởng đến nhiều bộ phận của cơ thể hơn.

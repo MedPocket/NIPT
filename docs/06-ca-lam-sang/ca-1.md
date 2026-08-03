@@ -9,7 +9,7 @@ description: "Phân tích trường hợp thai phụ nhận kết quả triSure 
 
 **Khảm khu trú bánh nhau (Confined Placental Mosaicism - CPM)** xảy ra khi dòng tế bào mang đột biến bất thường nhiễm sắc thể chỉ tồn tại khu trú trong các tế bào bánh nhau (nhau thai), trong khi các tế bào cấu thành cơ thể thai nhi lại hoàn toàn có bộ nhiễm sắc thể bình thường.
 
-![CPM](./ca-1-kham.png)
+![CPM](../assets/ca-1-kham.png)
 
 ---
 
@@ -21,8 +21,8 @@ description: "Phân tích trường hợp thai phụ nhận kết quả triSure 
   - Các nhiễm sắc thể 18 và 21 có chỉ số nguy cơ thấp bình thường.
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <img src="./ca-1-1.png" alt="Chi tiết ca lâm sàng 1" width="300" />
-  <img src="./ca-1-2.png" alt="Chi tiết ca lâm sàng 2" width="300" />
+  <img src="../assets/ca-1-1.png" alt="Chi tiết ca lâm sàng 1" width="300" />
+  <img src="../assets/ca-1-2.png" alt="Chi tiết ca lâm sàng 2" width="300" />
 </div>
 
 ```
@@ -39,7 +39,7 @@ description: "Phân tích trường hợp thai phụ nhận kết quả triSure 
 
 ### 3. Quy trình can thiệp và chẩn đoán khẳng định
 
-![Kết quả chẩn đoán](./ca-1-3.png)
+![Kết quả chẩn đoán](../assets/ca-1-3.png)
 
 1. **Chọc ối chẩn đoán:** Sau khi nhận kết quả nguy cơ cao, thai phụ được tư vấn thực hiện thủ thuật chọc ối tại bệnh viện chuyên khoa phụ sản để làm xét nghiệm khẳng định.
 2. **Xét nghiệm FISH trên dịch ối:**

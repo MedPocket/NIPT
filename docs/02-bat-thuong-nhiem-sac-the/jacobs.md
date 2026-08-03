@@ -5,7 +5,7 @@ description: "Sàng lọc bất thường số lượng nhiễm sắc thể gi�
 
 **Hội chứng Jacobs (47,XYY)** xảy ra ở nam giới khi có thêm một nhiễm sắc thể Y phụ trong tế bào.
 
-![Hội chứng Jacobs](./jacobs.png)
+![Hội chứng Jacobs](../assets/jacobs.png)
 
 - **Tần suất:** Xuất hiện với tỷ lệ khoảng 1/1.000 trẻ sơ sinh nam còn sống.
 - **Biểu hiện lâm sàng:** Biểu hiện lâm sàng có thể khác nhau. Nhiều người mắc hội chứng Jacobs có cuộc sống hoàn toàn bình thường và khả năng sinh sản không bị ảnh hưởng.

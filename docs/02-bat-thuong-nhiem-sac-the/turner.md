@@ -5,7 +5,7 @@ description: "Sàng lọc Thể đơn nhiễm X (Monosomy X - XO), bất thườ
 
 **Hội chứng Turner (Thể đơn nhiễm X - XO)** là bất thường nhiễm sắc thể giới tính ở nữ giới khi chỉ có một nhiễm sắc thể X hoạt động bình thường. Nhiều thai nhi thể đơn nhiễm X bị sẩy thai tự nhiên.
 
-![Hội chứng Turner](./turner.png)
+![Hội chứng Turner](../assets/turner.png)
 
 - **Tần suất:** Cứ 2.000 trẻ sơ sinh nữ còn sống sẽ có 1 trẻ mắc hội chứng Turner.
 - **Biểu hiện lâm sàng:** Biểu hiện lâm sàng có thể khác nhau giữa các cá nhân.
