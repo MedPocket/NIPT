@@ -5,7 +5,7 @@ description: "Sàng lọc Tam nhiễm sắc thể 21 (Trisomy 21), dị tật b�
 
 **Hội chứng Down (Tam nhiễm sắc thể 21)** là dị tật bẩm sinh do bất thường số lượng nhiễm sắc thể phổ biến nhất ở trẻ sơ sinh còn sống.
 
-![Hội chứng Down](../assets/down.png)
+![Hội chứng Down](../../assets/down.png)
 
 - **Tần suất:** Cứ 700 trẻ sơ sinh còn sống sẽ có 1 trẻ mắc hội chứng Down.
 - **Biểu hiện lâm sàng:** Mức độ biểu hiện có thể khác nhau ở mỗi trẻ.

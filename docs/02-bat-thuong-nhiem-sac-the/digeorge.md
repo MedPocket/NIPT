@@ -5,7 +5,7 @@ description: "Sàng lọc Hội chứng vi mất đoạn 22q11.2 (22q11.2 Deleti
 
 **Hội chứng DiGeorge (mất đoạn 22q11.2)** là bất thường cấu trúc nhiễm sắc thể gây bệnh phổ biến nhất.
 
-![Hội chứng DiGeorge](../assets/digeorge.png)
+![Hội chứng DiGeorge](../../assets/digeorge.png)
 
 - **Tần suất:** Ước tính có tỷ lệ lưu hành từ **1/990 đến 1/2148** thai kỳ nguy cơ cao, và khoảng **1/3000 đến 1/6000** trẻ sinh ra sống.
 - **Biểu hiện lâm sàng:** Rất đa dạng, ảnh hưởng đến nhiều hệ cơ quan trong cơ thể.
