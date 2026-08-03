@@ -25,17 +25,17 @@ export default defineConfig({
     fonts: {
       body: {
         name: "Be Vietnam Pro",
-        weights: [100, 200, 300, 400, 500, 600, 700, 800, 900],
+        weights: [400, 500, 600, 700],
       },
       display: {
         name: "Be Vietnam Pro",
-        weights: [100, 200, 300, 400, 500, 600, 700, 800, 900],
+        weights: [400, 500, 600, 700],
       },
     },
   },
 
   deployment: {
     output: "static",
-    base: "/NIPT",
+    base: process.env.NETLIFY === "true" ? "/" : "/NIPT",
   },
 });
