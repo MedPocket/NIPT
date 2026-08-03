@@ -1,0 +1,20 @@
+$ blume dev
+07:00:18 [vite] connected.
+07:00:20 [vite] connected.
+07:00:22 [types] Generated 2ms
+07:00:22 [vite] connected.
+07:00:23 [content] Syncing content
+07:00:24 [content] Synced content
+07:00:24 [vite] Re-optimizing dependencies because vite config has changed
+ astro  v7.1.3 ready in 8385 ms
+┃ Local    http://localhost:4321/NIPT
+┃ Network  use --host to expose
+07:00:25 watching for file changes...
+07:01:57 [200] /tong-quan/nipt-la-gi/ 563ms
+07:01:58 [200] /_image 108ms
+07:01:58 [200] /_image 179ms
+07:04:33 [glob-loader] Reloaded data from 06-ca-lam-sang/ca-2.md
+07:04:34 [watch] /src/generated/app.css
+07:04:34 [watch] /src/generated/app.css
+07:04:34 [watch] /src/generated/app.css
+error: script "dev" exited with code 143
