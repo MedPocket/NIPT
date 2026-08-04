@@ -25,11 +25,11 @@ export default defineConfig({
     fonts: {
       body: {
         name: "Be Vietnam Pro",
-        weights: [400, 500, 600, 700],
+        provider: "google",
       },
       display: {
         name: "Be Vietnam Pro",
-        weights: [400, 500, 600, 700],
+        provider: "google",
       },
     },
   },
