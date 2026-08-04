@@ -1,5 +1,7 @@
 # NIPT
 
+[![GitHub Pages](https://github.com/MedPocket/NIPT/actions/workflows/pages.yml/badge.svg)](https://medpocket.github.io/NIPT)
+
 **NIPT** is built using the [**Blume**](https://useblume.dev) documentation framework (powered by Astro and Vite).
 
 ## Develop locally
