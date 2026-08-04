@@ -3,11 +3,11 @@ title: "NIPT là gì?"
 description: "Khái niệm cốt lõi và nguyên lý hoạt động của xét nghiệm sàng lọc trước sinh không xâm lấn NIPT."
 ---
 
-![NIPT - Sàng lọc trước sinh không xâm lấn](./cover.png)
+![NIPT - Sàng lọc trước sinh không xâm lấn](../../assets/01-tong-quan/cover.png)
 
 **NIPT (Non-Invasive Prenatal Testing)** là xét nghiệm sàng lọc trước sinh không xâm lấn dựa trên DNA ngoại bào (cfDNA) của nhau thai phóng thích vào trong máu mẹ nhằm phát hiện các dị tật bẩm sinh phổ biến do bất thường số lượng nhiễm sắc thể (như Tam nhiễm sắc thể 21, 18, 13...).
 
-![NIPT là gì](./nipt-la-gi.png)
+![NIPT là gì](../../assets/01-tong-quan/nipt-la-gi.png)
 
 Xét nghiệm có thể được thực hiện rất sớm, ngay khi thai nhi được **9 tuần tuổi**.
 

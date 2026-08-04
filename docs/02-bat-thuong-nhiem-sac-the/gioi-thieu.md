@@ -27,7 +27,7 @@ Xét nghiệm triSure NIPT tập trung sàng lọc các nhóm bất thường nh
 
 ### 4. Hội chứng vi mất đoạn nhiễm sắc thể (Microdeletions)
 
-![Hội chứng vi mất đoạn](./vi-mat-doan.png)
+![Hội chứng vi mất đoạn](../../assets/02-bat-thuong-nhiem-sac-the/vi-mat-doan.png)
 
 - **Hội chứng DiGeorge** (Mất đoạn 22q11.2)
 - **Hội chứng Mất đoạn 1p36**

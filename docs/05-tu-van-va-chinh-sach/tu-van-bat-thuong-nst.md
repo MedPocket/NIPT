@@ -5,7 +5,7 @@ description: "Quy trình xử lý kết quả Dương tính, Nghi ngờ hoặc �
 
 Quy trình tư vấn và can thiệp lâm sàng được thiết lập chặt chẽ dựa trên kết quả sàng lọc bất thường số lượng nhiễm sắc thể (triSureFirst, triSure3, triSure, triSure9.5, triSure Procare):
 
-![Quy trình tư vấn sau xét nghiệm](./tu-van-sau-xet-nghiem.png)
+![Quy trình tư vấn sau xét nghiệm](../../assets/05-tu-van-va-chinh-sach/tu-van-sau-xet-nghiem.png)
 
 ### 1. Phân loại kết quả sàng lọc:
 

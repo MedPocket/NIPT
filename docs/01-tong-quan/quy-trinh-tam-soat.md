@@ -16,10 +16,10 @@ Dưới đây là thống kê so sánh giữa **Sàng lọc sinh hóa** và **NI
 | **Số thai bình thường bị sảy do chọc ối** |     513 thai      |    21 thai    |
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around; gap: 10px; margin: 20px 0;">
-  <img src="./quy-trinh-1.png" alt="Quy trình 1" width="180" />
-  <img src="./quy-trinh-2.png" alt="Quy trình 2" width="180" />
-  <img src="./quy-trinh-3.png" alt="Quy trình 3" width="70" />
-  <img src="./quy-trinh-4.png" alt="Quy trình 4" width="120" />
+  <img src="../../assets/01-tong-quan/quy-trinh-1.png" alt="Quy trình 1" width="180" />
+  <img src="../../assets/01-tong-quan/quy-trinh-2.png" alt="Quy trình 2" width="180" />
+  <img src="../../assets/01-tong-quan/quy-trinh-3.png" alt="Quy trình 3" width="70" />
+  <img src="../../assets/01-tong-quan/quy-trinh-4.png" alt="Quy trình 4" width="120" />
 </div>
 
 ---

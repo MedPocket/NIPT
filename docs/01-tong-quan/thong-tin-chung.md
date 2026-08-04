@@ -5,7 +5,7 @@ description: "Các lợi ích, hạn chế, và hướng dẫn chuyên môn từ
 
 Xét nghiệm NIPT sử dụng các phân tử DNA tự do (cell-free DNA) lưu hành trong máu mẹ để phát hiện các bất thường về số lượng nhiễm sắc thể của thai nhi.
 
-![Thông tin chung về NIPT](./thong-tin-chung.png)
+![Thông tin chung về NIPT](../../assets/01-tong-quan/thong-tin-chung.png)
 
 ### Lợi ích vượt trội
 
