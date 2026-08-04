@@ -7,7 +7,7 @@ description: "Phân tích trường hợp thai phụ nhận kết quả triSure 
 
 Bản chất di truyền của bánh nhau và thai nhi có thể khác biệt nhau trong một số ít trường hợp. Khi thai bị khảm (Fetal Mosaicism), cơ thể thai nhi sẽ đồng thời mang cả dòng tế bào bình thường và dòng tế bào bất thường, trong khi các tế bào ở bánh nhau lại hoàn toàn bình thường.
 
-![Fetal Mosaicism](../../assets/ca-2-kham.png)
+![Fetal Mosaicism](../../assets/06-ca-lam-sang/ca-2-kham.png)
 
 Vì NIPT dựa trên DNA tự do giải phóng từ bánh nhau, trường hợp thai bị khảm nhưng bánh nhau bình thường sẽ dẫn đến kết quả **Âm tính giả** trên NIPT.
 
@@ -26,16 +26,16 @@ Vì NIPT dựa trên DNA tự do giải phóng từ bánh nhau, trường hợp 
 ### 3. Quy trình phát hiện và chẩn đoán khẳng định
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-  <img src="../../assets/ca-2-1.png" alt="Siêu âm bất thường 1" width="180" />
-  <img src="../../assets/ca-2-2.png" alt="Siêu âm bất thường 2" width="180" />
-  <img src="../../assets/ca-2-3.png" alt="Siêu âm bất thường 3" width="300" />
+  <img src="../../assets/06-ca-lam-sang/ca-2-1.png" alt="Siêu âm bất thường 1" width="180" />
+  <img src="../../assets/06-ca-lam-sang/ca-2-2.png" alt="Siêu âm bất thường 2" width="180" />
+  <img src="../../assets/06-ca-lam-sang/ca-2-3.png" alt="Siêu âm bất thường 3" width="300" />
 </div>
 
 1. **Bất thường siêu âm ở tuần 22:** Khi khám thai và siêu âm hình thái học định kỳ ở tuần thai thứ 22, bác sĩ phát hiện thai nhi có các dấu hiệu bất thường nghiêm trọng:
    - Động mạch phổi nhỏ bất thường.
    - Bụng thai nhi xuất hiện nhiều dịch (tràn dịch màng bụng).
 
-![Karyotype kết quả dịch ối](../../assets/ca-2-4.png) 2. **Chọc ối chẩn đoán:** Bác sĩ chỉ định thực hiện thủ thuật chọc ối khẩn cấp để làm xét nghiệm lập karyotype tế bào ối. 3. **Kết quả Karyotype dịch ối:** Phát hiện thai bị **khảm 2 dòng tế bào**:
+![Karyotype kết quả dịch ối](../../assets/06-ca-lam-sang/ca-2-4.png) 2. **Chọc ối chẩn đoán:** Bác sĩ chỉ định thực hiện thủ thuật chọc ối khẩn cấp để làm xét nghiệm lập karyotype tế bào ối. 3. **Kết quả Karyotype dịch ối:** Phát hiện thai bị **khảm 2 dòng tế bào**:
 
 - **Dòng tế bào bình thường:** Chiếm tỷ lệ **70.6%**.
 - **Dòng tế bào bất thường mang đa tam nhiễm (Trisomy 7, 14, và 20):** Chiếm tỷ lệ **29.4%**.

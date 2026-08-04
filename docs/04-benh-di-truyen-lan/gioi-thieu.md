@@ -5,7 +5,7 @@ description: "Sàng lọc trạng thái mang gen lặn ẩn ở người mẹ đ
 
 Bệnh di truyền lặn xảy ra khi một người thừa hưởng hai bản sao của gen bị đột biến (một từ cha và một từ mẹ). Người chỉ mang một bản sao đột biến gọi là "người lành mang gen bệnh" (thể ẩn), hoàn toàn không biểu hiện triệu chứng bệnh nhưng có khả năng truyền gen bệnh cho thế hệ sau.
 
-![Sàng lọc gen bệnh lặn thể ẩn](../../assets/di-truyen-lan-intro.png)
+![Sàng lọc gen bệnh lặn thể ẩn](../../assets/04-benh-di-truyen-lan/di-truyen-lan-intro.png)
 
 Nếu cả cha và mẹ đều là người lành mang gen của cùng một bệnh di truyền lặn, mỗi lần sinh con sẽ có:
 

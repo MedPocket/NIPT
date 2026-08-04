@@ -18,13 +18,13 @@ Do đó, nếu bản thân người mẹ mang bất thường di truyền (như 
   - Các nhiễm sắc thể thường (13, 18, 21) có kết quả nguy cơ thấp bình thường.
   - **Nhiễm sắc thể giới tính:** Hệ thống đưa ra cảnh báo **Không thể phát hiện bất thường nhiễm sắc thể giới tính của thai do nghi ngờ người mẹ bị hội chứng Trisomy X (Triple X - 47,XXX)**.
 
-![Kết quả xét nghiệm triSure NIPT bị nhiễu do mẹ](../../assets/ca-4-1.png)
+![Kết quả xét nghiệm triSure NIPT bị nhiễu do mẹ](../../assets/06-ca-lam-sang/ca-4-1.png)
 
 ---
 
 ### 3. Quy trình tìm nguyên nhân và chẩn đoán khẳng định
 
-![Kết quả xét nghiệm FISH của mẹ](../../assets/ca-4-2.png)
+![Kết quả xét nghiệm FISH của mẹ](../../assets/06-ca-lam-sang/ca-4-2.png)
 
 1. **Xét nghiệm cho mẹ:** Để xác định nguyên nhân gây nhiễu tín hiệu, các bác sĩ chỉ định thu mẫu máu của người mẹ để thực hiện xét nghiệm **FISH** tế bào lympho máu ngoại vi.
 2. **Kết quả xét nghiệm FISH của mẹ:**

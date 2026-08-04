@@ -18,7 +18,7 @@ Trong các trường hợp dưới đây, thai phụ nên bỏ qua xét nghiệm
 
 ### 2. Hiện tượng khảm nhiễm sắc thể (Mosaicism)
 
-![Hiện tượng khảm](../../assets/the-kham.png)
+![Hiện tượng khảm](../../assets/05-tu-van-va-chinh-sach/the-kham.png)
 
 NIPT phân tích các mảnh DNA tự do phóng thích từ **bánh nhau (nhau thai)** vào máu mẹ, không phải trực tiếp từ tế bào thai nhi. Do đó, hiện tượng khảm (sự tồn tại của hai hoặc nhiều dòng tế bào có bộ NST khác nhau) có thể gây ra sai lệch kết quả:
 
