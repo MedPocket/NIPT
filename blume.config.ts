@@ -18,24 +18,24 @@ export default defineConfig({
     hideDefaultLocalePrefix: true,
   },
 
+  seo: {
+    og: {
+      site: false,
+      logo: false,
+    },
+  },
+
   theme: {
     accent: "blue",
     radius: "md",
-    mode: "system",
+    mode: "light",
     fonts: {
-      body: {
-        name: "Be Vietnam Pro",
-        provider: "google",
-      },
-      display: {
-        name: "Be Vietnam Pro",
-        provider: "google",
-      },
+      body: "inter",
+      display: "inter",
     },
   },
 
   deployment: {
-    output: "static",
     base: process.env.NETLIFY === "true" ? "/" : "/NIPT",
   },
 });
